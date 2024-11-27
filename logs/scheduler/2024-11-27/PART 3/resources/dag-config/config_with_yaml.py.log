@@ -1,0 +1,64 @@
+[2024-11-27T12:13:43.595-0500] {processor.py:186} INFO - Started process (PID=32327) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:13:43.595-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py for tasks to queue
+[2024-11-27T12:13:43.596-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:43.596-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:13:43.602-0500] {processor.py:925} INFO - DAG(s) 'config_with_yaml' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:13:43.671-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:43.671-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:config_with_yaml
+[2024-11-27T12:13:43.682-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:43.682-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:config_with_yaml
+[2024-11-27T12:13:43.691-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:43.691-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:config_with_yaml
+[2024-11-27T12:13:43.710-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:43.709-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:config_with_yaml
+[2024-11-27T12:13:43.722-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:43.722-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:config_with_yaml
+[2024-11-27T12:13:43.734-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:43.734-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:config_with_yaml
+[2024-11-27T12:13:43.746-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:43.746-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:config_with_yaml
+[2024-11-27T12:13:43.747-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:43.746-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:43.756-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:43.756-0500] {dag.py:3262} INFO - Creating ORM DAG for config_with_yaml
+[2024-11-27T12:13:43.760-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:43.760-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_yaml to None, run_after=None
+[2024-11-27T12:13:43.875-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py took 0.283 seconds
+[2024-11-27T12:15:10.888-0500] {processor.py:186} INFO - Started process (PID=32536) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:15:10.907-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py for tasks to queue
+[2024-11-27T12:15:10.909-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:10.909-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:15:10.918-0500] {processor.py:925} INFO - DAG(s) 'config_with_yaml' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:15:10.926-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:10.926-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:15:10.937-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:10.937-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_yaml to None, run_after=None
+[2024-11-27T12:15:11.054-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py took 0.169 seconds
+[2024-11-27T12:16:16.692-0500] {processor.py:186} INFO - Started process (PID=32611) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:16:16.711-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py for tasks to queue
+[2024-11-27T12:16:16.713-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:16.712-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:16:16.718-0500] {processor.py:925} INFO - DAG(s) 'config_with_yaml' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:16:16.726-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:16.726-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:16:16.738-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:16.737-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_yaml to None, run_after=None
+[2024-11-27T12:16:16.772-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py took 0.084 seconds
+[2024-11-27T12:17:12.553-0500] {processor.py:186} INFO - Started process (PID=32689) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:17:12.572-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py for tasks to queue
+[2024-11-27T12:17:12.575-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:12.574-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:17:12.584-0500] {processor.py:925} INFO - DAG(s) 'config_with_yaml' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:17:12.592-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:12.592-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:12.697-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:12.697-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_yaml to None, run_after=None
+[2024-11-27T12:17:12.735-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py took 0.186 seconds
+[2024-11-27T12:17:42.845-0500] {processor.py:186} INFO - Started process (PID=32724) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:17:42.846-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py for tasks to queue
+[2024-11-27T12:17:42.847-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:42.847-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:17:42.852-0500] {processor.py:925} INFO - DAG(s) 'config_with_yaml' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:17:42.864-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:42.864-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:42.874-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:42.874-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_yaml to None, run_after=None
+[2024-11-27T12:17:42.890-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py took 0.050 seconds
+[2024-11-27T12:19:16.346-0500] {processor.py:186} INFO - Started process (PID=32958) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:19:16.365-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py for tasks to queue
+[2024-11-27T12:19:16.367-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:16.367-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:19:16.373-0500] {processor.py:925} INFO - DAG(s) 'config_with_yaml' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:19:16.382-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:16.382-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:19:16.395-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:16.395-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_yaml to None, run_after=None
+[2024-11-27T12:19:16.593-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py took 0.252 seconds
+[2024-11-27T12:20:29.888-0500] {processor.py:186} INFO - Started process (PID=33041) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:20:29.906-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py for tasks to queue
+[2024-11-27T12:20:29.909-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:29.909-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:20:29.917-0500] {processor.py:925} INFO - DAG(s) 'config_with_yaml' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:20:29.925-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:29.925-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:20:29.935-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:29.935-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_yaml to None, run_after=None
+[2024-11-27T12:20:29.951-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py took 0.067 seconds
+[2024-11-27T12:21:25.341-0500] {processor.py:186} INFO - Started process (PID=33106) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:21:25.360-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py for tasks to queue
+[2024-11-27T12:21:25.363-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:25.363-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:21:25.371-0500] {processor.py:925} INFO - DAG(s) 'config_with_yaml' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py
+[2024-11-27T12:21:25.379-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:25.379-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:21:25.391-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:25.391-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_yaml to None, run_after=None
+[2024-11-27T12:21:25.503-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_yaml.py took 0.165 seconds

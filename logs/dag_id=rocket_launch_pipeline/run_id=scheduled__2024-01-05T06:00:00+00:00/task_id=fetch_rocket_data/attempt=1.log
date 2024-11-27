@@ -1,0 +1,104 @@
+[2024-11-27T05:18:11.845-0500] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-27T05:18:11.850-0500] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: rocket_launch_pipeline.fetch_rocket_data scheduled__2024-01-05T06:00:00+00:00 [queued]>
+[2024-11-27T05:18:11.853-0500] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: rocket_launch_pipeline.fetch_rocket_data scheduled__2024-01-05T06:00:00+00:00 [queued]>
+[2024-11-27T05:18:11.854-0500] {taskinstance.py:2866} INFO - Starting attempt 1 of 4
+[2024-11-27T05:18:11.869-0500] {taskinstance.py:2889} INFO - Executing <Task(BashOperator): fetch_rocket_data> on 2024-01-05 06:00:00+00:00
+[2024-11-27T05:18:11.880-0500] {logging_mixin.py:190} WARNING - /home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=12655) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-11-27T05:18:11.880-0500] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'rocket_launch_pipeline', 'fetch_rocket_data', 'scheduled__2024-01-05T06:00:00+00:00', '--job-id', '13', '--raw', '--subdir', 'DAGS_FOLDER/rocket_launch.py', '--cfg-path', '/tmp/tmp1uiy7gqf']
+[2024-11-27T05:18:11.880-0500] {standard_task_runner.py:72} INFO - Started process 12662 to run task
+[2024-11-27T05:18:11.880-0500] {standard_task_runner.py:105} INFO - Job 13: Subtask fetch_rocket_data
+[2024-11-27T05:18:11.918-0500] {task_command.py:467} INFO - Running <TaskInstance: rocket_launch_pipeline.fetch_rocket_data scheduled__2024-01-05T06:00:00+00:00 [running]> on host VanaPrastha
+[2024-11-27T05:18:11.970-0500] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='rocket_launch_pipeline' AIRFLOW_CTX_TASK_ID='fetch_rocket_data' AIRFLOW_CTX_EXECUTION_DATE='2024-01-05T06:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-01-05T06:00:00+00:00'
+[2024-11-27T05:18:11.971-0500] {logging_mixin.py:190} INFO - Task instance is in running state
+[2024-11-27T05:18:11.971-0500] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2024-11-27T05:18:11.971-0500] {logging_mixin.py:190} INFO - Current task name:fetch_rocket_data state:running start_date:2024-11-27 10:18:11.851179+00:00
+[2024-11-27T05:18:11.971-0500] {logging_mixin.py:190} INFO - Dag name:rocket_launch_pipeline and current dag run status:running
+[2024-11-27T05:18:11.971-0500] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-27T05:18:11.972-0500] {subprocess.py:78} INFO - Tmp dir root location: /tmp
+[2024-11-27T05:18:11.972-0500] {subprocess.py:88} INFO - Running command: ['/usr/bin/bash', '-c', 'curl -L -o /tmp/launches.json https://llapi.thespacedevs.com/2.2.0/launch/upcoming']
+[2024-11-27T05:18:11.985-0500] {subprocess.py:99} INFO - Output:
+[2024-11-27T05:18:11.987-0500] {subprocess.py:106} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2024-11-27T05:18:11.988-0500] {subprocess.py:106} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2024-11-27T05:18:12.655-0500] {subprocess.py:106} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+[2024-11-27T05:18:12.656-0500] {subprocess.py:106} INFO - curl: (60) SSL certificate problem: self-signed certificate
+[2024-11-27T05:18:12.656-0500] {subprocess.py:106} INFO - More details here: https://curl.se/docs/sslcerts.html
+[2024-11-27T05:18:12.656-0500] {subprocess.py:106} INFO - 
+[2024-11-27T05:18:12.657-0500] {subprocess.py:106} INFO - curl failed to verify the legitimacy of the server and therefore could not
+[2024-11-27T05:18:12.657-0500] {subprocess.py:106} INFO - establish a secure connection to it. To learn more about this situation and
+[2024-11-27T05:18:12.657-0500] {subprocess.py:106} INFO - how to fix it, please visit the webpage mentioned above.
+[2024-11-27T05:18:12.658-0500] {subprocess.py:110} INFO - Command exited with return code 60
+[2024-11-27T05:18:12.665-0500] {taskinstance.py:3311} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 417, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/operators/bash.py", line 276, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 60.
+[2024-11-27T05:18:12.669-0500] {logging_mixin.py:190} INFO - Task instance in failure state
+[2024-11-27T05:18:12.669-0500] {logging_mixin.py:190} INFO - Task start:2024-11-27 10:18:11.851179+00:00 end:2024-11-27 10:18:12.668819+00:00 duration:0.81764
+[2024-11-27T05:18:12.669-0500] {logging_mixin.py:190} INFO - Task:<Task(BashOperator): fetch_rocket_data> dag:<DAG: rocket_launch_pipeline> dagrun:<DagRun rocket_launch_pipeline @ 2024-01-05 06:00:00+00:00: scheduled__2024-01-05T06:00:00+00:00, state:running, queued_at: 2024-11-27 10:18:09.717212+00:00. externally triggered: False>
+[2024-11-27T05:18:12.669-0500] {logging_mixin.py:190} INFO - Failure caused by Bash command failed. The command returned a non-zero exit code 60.
+[2024-11-27T05:18:12.669-0500] {taskinstance.py:1225} INFO - Marking task as UP_FOR_RETRY. dag_id=rocket_launch_pipeline, task_id=fetch_rocket_data, run_id=scheduled__2024-01-05T06:00:00+00:00, execution_date=20240105T060000, start_date=20241127T101811, end_date=20241127T101812
+[2024-11-27T05:18:12.687-0500] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-27T05:18:12.688-0500] {standard_task_runner.py:124} ERROR - Failed to execute job 13 for task fetch_rocket_data (Bash command failed. The command returned a non-zero exit code 60.; 12662)
+Traceback (most recent call last):
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/utils/cli.py", line 116, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3005, in _run_raw_task
+    return _run_raw_task(
+           ^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 273, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3159, in _execute_task_with_callbacks
+    result = self._execute_task(context, task_orig)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3183, in _execute_task
+    return _execute_task(self, context, task_orig)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 417, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/operators/bash.py", line 276, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 60.
+[2024-11-27T05:18:12.696-0500] {local_task_job_runner.py:266} INFO - Task exited with return code 1
+[2024-11-27T05:18:12.704-0500] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-27T05:18:12.705-0500] {local_task_job_runner.py:245} INFO - ::endgroup::

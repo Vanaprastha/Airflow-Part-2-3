@@ -1,0 +1,43 @@
+[2024-11-05T03:31:04.109-0500] {processor.py:186} INFO - Started process (PID=15850) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:31:04.110-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-11-05T03:31:04.111-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:04.111-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:31:04.123-0500] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:31:04.215-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:04.214-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:example_task_group_decorator
+[2024-11-05T03:31:04.229-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:04.229-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:example_task_group_decorator
+[2024-11-05T03:31:04.241-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:04.240-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:example_task_group_decorator
+[2024-11-05T03:31:04.261-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:04.260-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:example_task_group_decorator
+[2024-11-05T03:31:04.273-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:04.273-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:example_task_group_decorator
+[2024-11-05T03:31:04.286-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:04.285-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:example_task_group_decorator
+[2024-11-05T03:31:04.298-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:04.297-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:example_task_group_decorator
+[2024-11-05T03:31:04.298-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:04.298-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:31:04.308-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:04.307-0500] {dag.py:3262} INFO - Creating ORM DAG for example_task_group_decorator
+[2024-11-05T03:31:04.308-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:04.308-0500] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-11-05T03:31:04.325-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.220 seconds
+[2024-11-05T03:32:09.701-0500] {processor.py:186} INFO - Started process (PID=16028) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:32:09.721-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-11-05T03:32:09.723-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:09.723-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:32:09.740-0500] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:32:09.751-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:09.751-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:32:09.758-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:09.758-0500] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-11-05T03:32:09.774-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.081 seconds
+[2024-11-05T03:33:03.117-0500] {processor.py:186} INFO - Started process (PID=16120) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:33:03.136-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-11-05T03:33:03.139-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:03.138-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:33:03.153-0500] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:33:03.164-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:03.164-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:33:03.171-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:03.171-0500] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-11-05T03:33:03.276-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.162 seconds
+[2024-11-05T03:33:53.619-0500] {processor.py:186} INFO - Started process (PID=16336) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:33:53.639-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-11-05T03:33:53.641-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:53.641-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:33:53.655-0500] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:33:53.666-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:53.666-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:33:53.674-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:53.674-0500] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-11-05T03:33:53.691-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.080 seconds
+[2024-11-05T03:34:40.384-0500] {processor.py:186} INFO - Started process (PID=16457) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:34:40.403-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-11-05T03:34:40.406-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:40.405-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:34:40.425-0500] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-11-05T03:34:40.437-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:40.437-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:34:40.444-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:40.443-0500] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-11-05T03:34:40.460-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.083 seconds

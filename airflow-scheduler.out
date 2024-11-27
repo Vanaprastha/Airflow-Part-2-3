@@ -1,0 +1,84 @@
+[2024-11-27T12:28:11.449-0500] {utils.py:160} INFO - NumExpr defaulting to 4 threads.
+[2024-11-27T12:28:11.547-0500] {executor_loader.py:254} INFO - Loaded executor: SequentialExecutor
+[2024-11-27T12:28:11.593-0500] {scheduler_job_runner.py:938} INFO - Starting the scheduler
+[2024-11-27T12:28:11.594-0500] {scheduler_job_runner.py:945} INFO - Processing each file at most -1 times
+[2024-11-27T12:28:11.600-0500] {manager.py:174} INFO - Launched DagFileProcessorManager with pid: 33677
+[2024-11-27T12:28:11.601-0500] {scheduler_job_runner.py:1852} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-11-27T12:28:11.604-0500] {settings.py:63} INFO - Configured default timezone UTC
+[2024-11-27T12:28:11.608-0500] {scheduler_job_runner.py:1875} INFO - Marked 1 SchedulerJob instances as failed
+[2024-11-27T12:28:11.621-0500] {scheduler_job_runner.py:1915} INFO - Reset the following 2 orphaned TaskInstances:
+	<TaskInstance: sleep_python.sleep manual__2024-11-27T17:22:16.200496+00:00 [queued]>
+	<TaskInstance: sensor_file.wait_file scheduled__2024-11-27T17:20:00+00:00 [running]>
+[2024-11-27T12:28:11.639-0500] {manager.py:406} WARNING - Because we cannot use more than 1 thread (parsing_processes = 2) when using sqlite. So we set parallelism to 1.
+[2024-11-27T12:28:11.820-0500] {dag.py:4180} INFO - Setting next_dagrun for sensor_dag to 2024-11-27 17:27:00+00:00, run_after=2024-11-27 17:28:00+00:00
+[2024-11-27T12:28:11.824-0500] {dag.py:4180} INFO - Setting next_dagrun for sensor_file to 2024-11-27 17:27:00+00:00, run_after=2024-11-27 17:28:00+00:00
+Dag run  in running state
+Dag information Queued at: 2024-11-27 17:28:11.810627+00:00 hash info: 367ed20809dc865ab2045ad364872d26
+Dag run  in running state
+Dag information Queued at: 2024-11-27 17:28:11.821604+00:00 hash info: 267cab6bc5e94d4bba489c91cf667ab0
+Dag run  in running state
+Dag information Queued at: 2024-11-27 17:26:36.009385+00:00 hash info: fb4c57b5f187e63db1c5987b026d6c20
+Dag run  in running state
+Dag information Queued at: 2024-11-27 17:27:01.056386+00:00 hash info: fb4c57b5f187e63db1c5987b026d6c20
+Dag run  in running state
+Dag information Queued at: 2024-11-27 17:27:37.332586+00:00 hash info: fb4c57b5f187e63db1c5987b026d6c20
+[2024-11-27T12:28:11.901-0500] {dagrun.py:823} ERROR - Marking run <DagRun sensor_file @ 2024-11-27 17:19:00+00:00: scheduled__2024-11-27T17:19:00+00:00, state:running, queued_at: 2024-11-27 17:21:29.287476+00:00. externally triggered: False> failed
+Dag run  in failure state
+Dag information:sensor_file Run id: scheduled__2024-11-27T17:19:00+00:00 external trigger: False
+Failed with message: task_failure
+[2024-11-27T12:28:11.902-0500] {dagrun.py:905} INFO - DagRun Finished: dag_id=sensor_file, execution_date=2024-11-27 17:19:00+00:00, run_id=scheduled__2024-11-27T17:19:00+00:00, run_start_date=2024-11-27 17:21:29.306169+00:00, run_end_date=2024-11-27 17:28:11.902365+00:00, run_duration=402.596196, state=failed, external_trigger=False, run_type=scheduled, data_interval_start=2024-11-27 17:19:00+00:00, data_interval_end=2024-11-27 17:20:00+00:00, dag_hash=267cab6bc5e94d4bba489c91cf667ab0
+[2024-11-27T12:28:11.904-0500] {dag.py:4180} INFO - Setting next_dagrun for sensor_file to 2024-11-27 17:27:00+00:00, run_after=2024-11-27 17:28:00+00:00
+[2024-11-27T12:28:11.921-0500] {scheduler_job_runner.py:423} INFO - 7 tasks up for execution:
+	<TaskInstance: sensor_dag.wait_current_dag scheduled__2024-11-27T17:19:00+00:00 [scheduled]>
+	<TaskInstance: sensor_dag.wait_current_dag manual__2024-11-27T17:21:53.619296+00:00 [scheduled]>
+	<TaskInstance: sensor_file.wait_file scheduled__2024-11-27T17:20:00+00:00 [scheduled]>
+	<TaskInstance: sensor_file.wait_file scheduled__2024-11-27T17:21:00+00:00 [scheduled]>
+	<TaskInstance: sensor_file.wait_file manual__2024-11-27T17:21:30.416178+00:00 [scheduled]>
+	<TaskInstance: trigger_another_dag_without_completion.trigger_dag_sleep manual__2024-11-27T17:22:39.854412+00:00 [scheduled]>
+	<TaskInstance: sleep_python.sleep manual__2024-11-27T17:22:16.200496+00:00 [scheduled]>
+[2024-11-27T12:28:11.921-0500] {scheduler_job_runner.py:495} INFO - DAG sensor_dag has 0/16 running and queued tasks
+[2024-11-27T12:28:11.921-0500] {scheduler_job_runner.py:495} INFO - DAG sensor_dag has 1/16 running and queued tasks
+[2024-11-27T12:28:11.922-0500] {scheduler_job_runner.py:495} INFO - DAG sensor_file has 0/16 running and queued tasks
+[2024-11-27T12:28:11.922-0500] {scheduler_job_runner.py:495} INFO - DAG sensor_file has 1/16 running and queued tasks
+[2024-11-27T12:28:11.922-0500] {scheduler_job_runner.py:495} INFO - DAG sensor_file has 2/16 running and queued tasks
+[2024-11-27T12:28:11.922-0500] {scheduler_job_runner.py:495} INFO - DAG trigger_another_dag_without_completion has 0/16 running and queued tasks
+[2024-11-27T12:28:11.922-0500] {scheduler_job_runner.py:495} INFO - DAG sleep_python has 0/16 running and queued tasks
+[2024-11-27T12:28:11.922-0500] {scheduler_job_runner.py:634} INFO - Setting the following tasks to queued state:
+	<TaskInstance: sensor_dag.wait_current_dag scheduled__2024-11-27T17:19:00+00:00 [scheduled]>
+	<TaskInstance: sensor_dag.wait_current_dag manual__2024-11-27T17:21:53.619296+00:00 [scheduled]>
+	<TaskInstance: sensor_file.wait_file scheduled__2024-11-27T17:20:00+00:00 [scheduled]>
+	<TaskInstance: sensor_file.wait_file scheduled__2024-11-27T17:21:00+00:00 [scheduled]>
+	<TaskInstance: sensor_file.wait_file manual__2024-11-27T17:21:30.416178+00:00 [scheduled]>
+	<TaskInstance: trigger_another_dag_without_completion.trigger_dag_sleep manual__2024-11-27T17:22:39.854412+00:00 [scheduled]>
+	<TaskInstance: sleep_python.sleep manual__2024-11-27T17:22:16.200496+00:00 [scheduled]>
+[2024-11-27T12:28:11.925-0500] {scheduler_job_runner.py:736} INFO - Trying to enqueue tasks: [<TaskInstance: sensor_dag.wait_current_dag scheduled__2024-11-27T17:19:00+00:00 [scheduled]>, <TaskInstance: sensor_dag.wait_current_dag manual__2024-11-27T17:21:53.619296+00:00 [scheduled]>, <TaskInstance: sensor_file.wait_file scheduled__2024-11-27T17:20:00+00:00 [scheduled]>, <TaskInstance: sensor_file.wait_file scheduled__2024-11-27T17:21:00+00:00 [scheduled]>, <TaskInstance: sensor_file.wait_file manual__2024-11-27T17:21:30.416178+00:00 [scheduled]>, <TaskInstance: trigger_another_dag_without_completion.trigger_dag_sleep manual__2024-11-27T17:22:39.854412+00:00 [scheduled]>, <TaskInstance: sleep_python.sleep manual__2024-11-27T17:22:16.200496+00:00 [scheduled]>] for executor: SequentialExecutor(parallelism=32)
+[2024-11-27T12:28:11.925-0500] {scheduler_job_runner.py:680} INFO - Sending TaskInstanceKey(dag_id='sensor_dag', task_id='wait_current_dag', run_id='scheduled__2024-11-27T17:19:00+00:00', try_number=1, map_index=-1) to SequentialExecutor with priority 3 and queue default
+[2024-11-27T12:28:11.925-0500] {base_executor.py:168} INFO - Adding to queue: ['airflow', 'tasks', 'run', 'sensor_dag', 'wait_current_dag', 'scheduled__2024-11-27T17:19:00+00:00', '--local', '--subdir', 'DAGS_FOLDER/PART 3/Sensor/sensor_dag.py']
+[2024-11-27T12:28:11.926-0500] {scheduler_job_runner.py:680} INFO - Sending TaskInstanceKey(dag_id='sensor_dag', task_id='wait_current_dag', run_id='manual__2024-11-27T17:21:53.619296+00:00', try_number=1, map_index=-1) to SequentialExecutor with priority 3 and queue default
+[2024-11-27T12:28:11.926-0500] {base_executor.py:168} INFO - Adding to queue: ['airflow', 'tasks', 'run', 'sensor_dag', 'wait_current_dag', 'manual__2024-11-27T17:21:53.619296+00:00', '--local', '--subdir', 'DAGS_FOLDER/PART 3/Sensor/sensor_dag.py']
+[2024-11-27T12:28:11.926-0500] {scheduler_job_runner.py:680} INFO - Sending TaskInstanceKey(dag_id='sensor_file', task_id='wait_file', run_id='scheduled__2024-11-27T17:20:00+00:00', try_number=2, map_index=-1) to SequentialExecutor with priority 2 and queue default
+[2024-11-27T12:28:11.926-0500] {base_executor.py:168} INFO - Adding to queue: ['airflow', 'tasks', 'run', 'sensor_file', 'wait_file', 'scheduled__2024-11-27T17:20:00+00:00', '--local', '--subdir', 'DAGS_FOLDER/PART 3/Sensor/sensor_file.py']
+[2024-11-27T12:28:11.926-0500] {scheduler_job_runner.py:680} INFO - Sending TaskInstanceKey(dag_id='sensor_file', task_id='wait_file', run_id='scheduled__2024-11-27T17:21:00+00:00', try_number=1, map_index=-1) to SequentialExecutor with priority 2 and queue default
+[2024-11-27T12:28:11.926-0500] {base_executor.py:168} INFO - Adding to queue: ['airflow', 'tasks', 'run', 'sensor_file', 'wait_file', 'scheduled__2024-11-27T17:21:00+00:00', '--local', '--subdir', 'DAGS_FOLDER/PART 3/Sensor/sensor_file.py']
+[2024-11-27T12:28:11.927-0500] {scheduler_job_runner.py:680} INFO - Sending TaskInstanceKey(dag_id='sensor_file', task_id='wait_file', run_id='manual__2024-11-27T17:21:30.416178+00:00', try_number=1, map_index=-1) to SequentialExecutor with priority 2 and queue default
+[2024-11-27T12:28:11.927-0500] {base_executor.py:168} INFO - Adding to queue: ['airflow', 'tasks', 'run', 'sensor_file', 'wait_file', 'manual__2024-11-27T17:21:30.416178+00:00', '--local', '--subdir', 'DAGS_FOLDER/PART 3/Sensor/sensor_file.py']
+[2024-11-27T12:28:11.927-0500] {scheduler_job_runner.py:680} INFO - Sending TaskInstanceKey(dag_id='trigger_another_dag_without_completion', task_id='trigger_dag_sleep', run_id='manual__2024-11-27T17:22:39.854412+00:00', try_number=1, map_index=-1) to SequentialExecutor with priority 2 and queue default
+[2024-11-27T12:28:11.927-0500] {base_executor.py:168} INFO - Adding to queue: ['airflow', 'tasks', 'run', 'trigger_another_dag_without_completion', 'trigger_dag_sleep', 'manual__2024-11-27T17:22:39.854412+00:00', '--local', '--subdir', 'DAGS_FOLDER/PART 3/Trigger\nAnother DAG/trigger_another_dag_without_completion.py']
+[2024-11-27T12:28:11.927-0500] {scheduler_job_runner.py:680} INFO - Sending TaskInstanceKey(dag_id='sleep_python', task_id='sleep', run_id='manual__2024-11-27T17:22:16.200496+00:00', try_number=2, map_index=-1) to SequentialExecutor with priority 1 and queue default
+[2024-11-27T12:28:11.927-0500] {base_executor.py:168} INFO - Adding to queue: ['airflow', 'tasks', 'run', 'sleep_python', 'sleep', 'manual__2024-11-27T17:22:16.200496+00:00', '--local', '--subdir', 'DAGS_FOLDER/PART 3/Trigger\nAnother DAG/sleep_python.py']
+[2024-11-27T12:28:11.935-0500] {sequential_executor.py:84} INFO - Executing command: ['airflow', 'tasks', 'run', 'sensor_dag', 'wait_current_dag', 'scheduled__2024-11-27T17:19:00+00:00', '--local', '--subdir', 'DAGS_FOLDER/PART 3/Sensor/sensor_dag.py']
+[2024-11-27T12:28:13.115-0500] {utils.py:160} INFO - NumExpr defaulting to 4 threads.
+[2024-11-27T12:28:13.401-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Sensor/sensor_dag.py
+[2024-11-27T12:28:13.755-0500] {task_command.py:467} INFO - Running <TaskInstance: sensor_dag.wait_current_dag scheduled__2024-11-27T17:19:00+00:00 [queued]> on host VanaPrastha
+[2024-11-27T12:33:48.531-0500] {sequential_executor.py:84} INFO - Executing command: ['airflow', 'tasks', 'run', 'sensor_dag', 'wait_current_dag', 'manual__2024-11-27T17:21:53.619296+00:00', '--local', '--subdir', 'DAGS_FOLDER/PART 3/Sensor/sensor_dag.py']
+[2024-11-27T12:33:50.098-0500] {utils.py:160} INFO - NumExpr defaulting to 4 threads.
+[2024-11-27T12:33:50.417-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Sensor/sensor_dag.py
+[2024-11-27T12:33:50.802-0500] {task_command.py:467} INFO - Running <TaskInstance: sensor_dag.wait_current_dag manual__2024-11-27T17:21:53.619296+00:00 [running]> on host VanaPrastha
+[2024-11-27T12:33:51.333-0500] {sequential_executor.py:84} INFO - Executing command: ['airflow', 'tasks', 'run', 'sensor_file', 'wait_file', 'scheduled__2024-11-27T17:20:00+00:00', '--local', '--subdir', 'DAGS_FOLDER/PART 3/Sensor/sensor_file.py']
+[2024-11-27T12:33:52.739-0500] {utils.py:160} INFO - NumExpr defaulting to 4 threads.
+[2024-11-27T12:33:53.089-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Sensor/sensor_file.py
+[2024-11-27T12:33:53.539-0500] {task_command.py:467} INFO - Running <TaskInstance: sensor_file.wait_file scheduled__2024-11-27T17:20:00+00:00 [queued]> on host VanaPrastha
+[2024-11-27T12:34:09.379-0500] {sequential_executor.py:84} INFO - Executing command: ['airflow', 'tasks', 'run', 'sensor_file', 'wait_file', 'scheduled__2024-11-27T17:21:00+00:00', '--local', '--subdir', 'DAGS_FOLDER/PART 3/Sensor/sensor_file.py']
+[2024-11-27T12:34:10.806-0500] {utils.py:160} INFO - NumExpr defaulting to 4 threads.
+[2024-11-27T12:34:11.199-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Sensor/sensor_file.py
+[2024-11-27T12:34:11.585-0500] {task_command.py:467} INFO - Running <TaskInstance: sensor_file.wait_file scheduled__2024-11-27T17:21:00+00:00 [queued]> on host VanaPrastha

@@ -1,0 +1,43 @@
+[2024-11-05T03:31:02.764-0500] {processor.py:186} INFO - Started process (PID=15847) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:31:02.765-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-11-05T03:31:02.768-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:02.767-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:31:02.774-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:31:02.860-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:02.859-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2024-11-05T03:31:02.877-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:02.877-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2024-11-05T03:31:02.890-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:02.889-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2024-11-05T03:31:02.911-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:02.911-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:example_skip_dag
+[2024-11-05T03:31:02.923-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:02.922-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:example_skip_dag
+[2024-11-05T03:31:02.935-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:02.934-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:example_skip_dag
+[2024-11-05T03:31:02.946-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:02.946-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:example_skip_dag
+[2024-11-05T03:31:02.947-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:02.947-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:31:02.956-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:02.956-0500] {dag.py:3262} INFO - Creating ORM DAG for example_skip_dag
+[2024-11-05T03:31:02.960-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:02.960-0500] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-11-04 00:00:00+00:00, run_after=2024-11-05 00:00:00+00:00
+[2024-11-05T03:31:02.976-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.219 seconds
+[2024-11-05T03:32:08.782-0500] {processor.py:186} INFO - Started process (PID=16027) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:32:08.802-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-11-05T03:32:08.804-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:08.804-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:32:08.814-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:32:08.825-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:08.825-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:32:08.835-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:08.835-0500] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-11-04 00:00:00+00:00, run_after=2024-11-05 00:00:00+00:00
+[2024-11-05T03:32:08.851-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2024-11-05T03:33:02.532-0500] {processor.py:186} INFO - Started process (PID=16117) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:33:02.551-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-11-05T03:33:02.554-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:02.553-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:33:02.564-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:33:02.574-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:02.574-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:33:02.653-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:02.653-0500] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-11-04 00:00:00+00:00, run_after=2024-11-05 00:00:00+00:00
+[2024-11-05T03:33:02.691-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.165 seconds
+[2024-11-05T03:33:52.846-0500] {processor.py:186} INFO - Started process (PID=16334) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:33:52.865-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-11-05T03:33:52.868-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:52.867-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:33:52.879-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:33:52.892-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:52.892-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:33:52.903-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:52.903-0500] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-11-04 00:00:00+00:00, run_after=2024-11-05 00:00:00+00:00
+[2024-11-05T03:33:52.918-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2024-11-05T03:34:39.240-0500] {processor.py:186} INFO - Started process (PID=16452) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:34:39.259-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-11-05T03:34:39.260-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:39.260-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:34:39.266-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-11-05T03:34:39.280-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:39.280-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:34:39.293-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:39.293-0500] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-11-04 00:00:00+00:00, run_after=2024-11-05 00:00:00+00:00
+[2024-11-05T03:34:39.309-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds

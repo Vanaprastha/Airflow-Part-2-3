@@ -1,0 +1,71 @@
+[2024-11-27T12:13:12.568-0500] {processor.py:186} INFO - Started process (PID=32284) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:13:12.569-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py for tasks to queue
+[2024-11-27T12:13:12.569-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:12.569-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:13:12.575-0500] {processor.py:925} INFO - DAG(s) 'config_with_json' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:13:12.644-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:12.644-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:config_with_json
+[2024-11-27T12:13:12.657-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:12.657-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:config_with_json
+[2024-11-27T12:13:12.668-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:12.668-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:config_with_json
+[2024-11-27T12:13:12.685-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:12.685-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:config_with_json
+[2024-11-27T12:13:12.695-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:12.695-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:config_with_json
+[2024-11-27T12:13:12.706-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:12.706-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:config_with_json
+[2024-11-27T12:13:12.717-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:12.716-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:config_with_json
+[2024-11-27T12:13:12.717-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:12.717-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:12.725-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:12.724-0500] {dag.py:3262} INFO - Creating ORM DAG for config_with_json
+[2024-11-27T12:13:12.729-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:12.729-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_json to None, run_after=None
+[2024-11-27T12:13:12.745-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py took 0.180 seconds
+[2024-11-27T12:13:44.951-0500] {processor.py:186} INFO - Started process (PID=32329) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:13:44.969-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py for tasks to queue
+[2024-11-27T12:13:44.970-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:44.970-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:13:44.976-0500] {processor.py:925} INFO - DAG(s) 'config_with_json' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:13:44.988-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:44.987-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:44.999-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:44.998-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_json to None, run_after=None
+[2024-11-27T12:13:45.018-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py took 0.070 seconds
+[2024-11-27T12:15:12.138-0500] {processor.py:186} INFO - Started process (PID=32537) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:15:12.157-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py for tasks to queue
+[2024-11-27T12:15:12.161-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:12.161-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:15:12.170-0500] {processor.py:925} INFO - DAG(s) 'config_with_json' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:15:12.178-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:12.177-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:15:12.189-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:12.189-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_json to None, run_after=None
+[2024-11-27T12:15:12.333-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py took 0.198 seconds
+[2024-11-27T12:16:17.851-0500] {processor.py:186} INFO - Started process (PID=32612) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:16:17.870-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py for tasks to queue
+[2024-11-27T12:16:17.872-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:17.871-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:16:17.879-0500] {processor.py:925} INFO - DAG(s) 'config_with_json' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:16:17.889-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:17.889-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:16:17.900-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:17.900-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_json to None, run_after=None
+[2024-11-27T12:16:17.923-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py took 0.075 seconds
+[2024-11-27T12:17:13.792-0500] {processor.py:186} INFO - Started process (PID=32690) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:17:13.811-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py for tasks to queue
+[2024-11-27T12:17:13.815-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:13.814-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:17:13.825-0500] {processor.py:925} INFO - DAG(s) 'config_with_json' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:17:13.834-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:13.834-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:13.941-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:13.940-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_json to None, run_after=None
+[2024-11-27T12:17:13.976-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py took 0.189 seconds
+[2024-11-27T12:17:41.669-0500] {processor.py:186} INFO - Started process (PID=32723) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:17:41.670-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py for tasks to queue
+[2024-11-27T12:17:41.671-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:41.671-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:17:41.676-0500] {processor.py:925} INFO - DAG(s) 'config_with_json' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:17:41.692-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:41.692-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:41.704-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:41.704-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_json to None, run_after=None
+[2024-11-27T12:17:41.721-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py took 0.055 seconds
+[2024-11-27T12:19:14.985-0500] {processor.py:186} INFO - Started process (PID=32957) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:19:15.005-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py for tasks to queue
+[2024-11-27T12:19:15.006-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:15.006-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:19:15.011-0500] {processor.py:925} INFO - DAG(s) 'config_with_json' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:19:15.024-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:15.024-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:19:15.040-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:15.040-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_json to None, run_after=None
+[2024-11-27T12:19:15.222-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py took 0.243 seconds
+[2024-11-27T12:20:29.156-0500] {processor.py:186} INFO - Started process (PID=33040) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:20:29.156-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py for tasks to queue
+[2024-11-27T12:20:29.158-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:29.157-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:20:29.162-0500] {processor.py:925} INFO - DAG(s) 'config_with_json' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:20:29.170-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:29.170-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:20:29.180-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:29.180-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_json to None, run_after=None
+[2024-11-27T12:20:29.196-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py took 0.043 seconds
+[2024-11-27T12:21:23.995-0500] {processor.py:186} INFO - Started process (PID=33105) to work on /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:21:24.014-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py for tasks to queue
+[2024-11-27T12:21:24.016-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:24.016-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:21:24.026-0500] {processor.py:925} INFO - DAG(s) 'config_with_json' retrieved from /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py
+[2024-11-27T12:21:24.035-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:24.034-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:21:24.046-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:24.046-0500] {dag.py:4180} INFO - Setting next_dagrun for config_with_json to None, run_after=None
+[2024-11-27T12:21:24.189-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/resources/dag-config/config_with_json.py took 0.198 seconds

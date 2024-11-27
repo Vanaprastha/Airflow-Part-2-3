@@ -1,0 +1,155 @@
+[2024-11-27T12:03:12.349-0500] {processor.py:186} INFO - Started process (PID=29723) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:03:12.350-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:03:12.351-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:12.351-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:03:12.357-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:03:12.448-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:12.447-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:variable_with_object
+[2024-11-27T12:03:12.459-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:12.459-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:variable_with_object
+[2024-11-27T12:03:12.469-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:12.469-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:variable_with_object
+[2024-11-27T12:03:12.486-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:12.486-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:variable_with_object
+[2024-11-27T12:03:12.495-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:12.495-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:variable_with_object
+[2024-11-27T12:03:12.505-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:12.505-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:variable_with_object
+[2024-11-27T12:03:12.515-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:12.514-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:variable_with_object
+[2024-11-27T12:03:12.515-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:12.515-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:03:12.521-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:12.521-0500] {dag.py:3262} INFO - Creating ORM DAG for variable_with_object
+[2024-11-27T12:03:12.526-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:12.526-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:03:12.653-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.307 seconds
+[2024-11-27T12:04:29.683-0500] {processor.py:186} INFO - Started process (PID=30132) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:04:29.701-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:04:29.703-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:29.703-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:04:29.711-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:04:29.719-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:29.719-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:04:29.732-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:29.731-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:04:29.856-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.176 seconds
+[2024-11-27T12:05:20.357-0500] {processor.py:186} INFO - Started process (PID=30900) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:05:20.376-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:05:20.379-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:20.379-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:05:20.393-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:05:20.406-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:20.405-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:05:20.518-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:20.517-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:05:20.552-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.201 seconds
+[2024-11-27T12:06:11.140-0500] {processor.py:186} INFO - Started process (PID=31031) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:06:11.160-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:06:11.163-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:11.162-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:06:11.171-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:06:11.179-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:11.179-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:06:11.189-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:11.189-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:06:11.299-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.164 seconds
+[2024-11-27T12:07:02.485-0500] {processor.py:186} INFO - Started process (PID=31610) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:07:02.504-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:07:02.507-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:02.506-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:07:02.518-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:07:02.527-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:02.527-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:07:02.631-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:02.631-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:07:02.670-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.190 seconds
+[2024-11-27T12:07:55.431-0500] {processor.py:186} INFO - Started process (PID=31768) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:07:55.453-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:07:55.455-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:55.455-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:07:55.467-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:07:55.477-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:55.477-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:07:55.488-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:55.488-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:07:55.505-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.079 seconds
+[2024-11-27T12:08:43.465-0500] {processor.py:186} INFO - Started process (PID=31847) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:08:43.483-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:08:43.485-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:43.485-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:08:43.494-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:08:43.502-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:43.502-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:08:43.516-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:43.516-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:08:43.533-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.072 seconds
+[2024-11-27T12:09:30.998-0500] {processor.py:186} INFO - Started process (PID=31935) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:09:30.999-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:09:31.000-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:31.000-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:09:31.006-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:09:31.017-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:31.017-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:09:31.029-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:31.029-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:09:31.046-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.051 seconds
+[2024-11-27T12:10:16.433-0500] {processor.py:186} INFO - Started process (PID=32019) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:10:16.453-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:10:16.456-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:16.455-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:10:16.466-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:10:16.475-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:16.475-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:10:16.486-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:16.486-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:10:16.503-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.075 seconds
+[2024-11-27T12:11:01.577-0500] {processor.py:186} INFO - Started process (PID=32083) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:11:01.596-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:11:01.599-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:01.598-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:11:01.609-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:11:01.618-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:01.618-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:11:01.630-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:01.630-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:11:01.646-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.073 seconds
+[2024-11-27T12:11:46.430-0500] {processor.py:186} INFO - Started process (PID=32142) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:11:46.449-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:11:46.451-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:46.451-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:11:46.456-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:11:46.465-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:46.465-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:11:46.478-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:46.477-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:11:46.493-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.067 seconds
+[2024-11-27T12:12:30.461-0500] {processor.py:186} INFO - Started process (PID=32232) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:12:30.479-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:12:30.482-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:30.481-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:12:30.491-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:12:30.500-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:30.500-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:12:30.511-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:30.511-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:12:30.531-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.075 seconds
+[2024-11-27T12:13:16.419-0500] {processor.py:186} INFO - Started process (PID=32288) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:13:16.420-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:13:16.421-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:16.420-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:13:16.426-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:13:16.436-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:16.436-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:16.449-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:16.449-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:13:16.469-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.054 seconds
+[2024-11-27T12:13:47.211-0500] {processor.py:186} INFO - Started process (PID=32335) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:13:47.229-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:13:47.230-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:47.230-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:13:47.236-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:13:47.249-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:47.249-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:47.260-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:47.260-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:13:47.278-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.070 seconds
+[2024-11-27T12:15:14.153-0500] {processor.py:186} INFO - Started process (PID=32539) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:15:14.171-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:15:14.174-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:14.173-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:15:14.182-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:15:14.191-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:14.190-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:15:14.202-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:14.202-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:15:14.339-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.190 seconds
+[2024-11-27T12:16:19.867-0500] {processor.py:186} INFO - Started process (PID=32614) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:16:19.886-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:16:19.888-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:19.888-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:16:19.898-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:16:19.908-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:19.908-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:16:19.920-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:19.920-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:16:19.936-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.072 seconds
+[2024-11-27T12:17:16.270-0500] {processor.py:186} INFO - Started process (PID=32692) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:17:16.289-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:17:16.292-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:16.291-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:17:16.300-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:17:16.309-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:16.309-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:16.448-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:16.448-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:17:16.486-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.220 seconds
+[2024-11-27T12:17:45.117-0500] {processor.py:186} INFO - Started process (PID=32730) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:17:45.118-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:17:45.119-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:45.119-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:17:45.124-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:17:45.137-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:45.136-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:45.148-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:45.148-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:17:45.168-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.054 seconds
+[2024-11-27T12:19:18.937-0500] {processor.py:186} INFO - Started process (PID=32960) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:19:18.957-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:19:18.960-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:18.959-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:19:18.970-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:19:18.980-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:18.980-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:19:18.992-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:18.991-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:19:19.157-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.226 seconds
+[2024-11-27T12:20:32.197-0500] {processor.py:186} INFO - Started process (PID=33043) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:20:32.216-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:20:32.219-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:32.218-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:20:32.227-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:20:32.239-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:32.239-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:20:32.254-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:32.254-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:20:32.271-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.079 seconds
+[2024-11-27T12:21:27.644-0500] {processor.py:186} INFO - Started process (PID=33108) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:21:27.645-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py for tasks to queue
+[2024-11-27T12:21:27.647-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:27.647-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:21:27.652-0500] {processor.py:925} INFO - DAG(s) 'variable_with_object' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py
+[2024-11-27T12:21:27.671-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:27.671-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:21:27.683-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:27.682-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_object to None, run_after=None
+[2024-11-27T12:21:27.844-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_object.py took 0.206 seconds

@@ -1,0 +1,62 @@
+[2024-11-05T03:31:26.546-0500] {processor.py:186} INFO - Started process (PID=15901) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2024-11-05T03:31:26.547-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2024-11-05T03:31:26.550-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.549-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2024-11-05T03:31:26.563-0500] {processor.py:925} INFO - DAG(s) 'dataset_s3_bucket_producer', 'dataset_alias_example_alias_producer', 'dataset_alias_example_alias_consumer', 'dataset_s3_bucket_consumer' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2024-11-05T03:31:26.620-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.620-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:dataset_s3_bucket_producer
+[2024-11-05T03:31:26.631-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.631-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:dataset_s3_bucket_producer
+[2024-11-05T03:31:26.641-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.641-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:dataset_s3_bucket_producer
+[2024-11-05T03:31:26.661-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.660-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:dataset_s3_bucket_producer
+[2024-11-05T03:31:26.674-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.673-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:dataset_s3_bucket_producer
+[2024-11-05T03:31:26.686-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.686-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:dataset_s3_bucket_producer
+[2024-11-05T03:31:26.698-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.697-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:dataset_s3_bucket_producer
+[2024-11-05T03:31:26.723-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.723-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:dataset_alias_example_alias_producer
+[2024-11-05T03:31:26.735-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.734-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:dataset_alias_example_alias_producer
+[2024-11-05T03:31:26.747-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.746-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:dataset_alias_example_alias_producer
+[2024-11-05T03:31:26.766-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.766-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:dataset_alias_example_alias_producer
+[2024-11-05T03:31:26.780-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.779-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:dataset_alias_example_alias_producer
+[2024-11-05T03:31:26.793-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.793-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:dataset_alias_example_alias_producer
+[2024-11-05T03:31:26.804-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.804-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:dataset_alias_example_alias_producer
+[2024-11-05T03:31:26.827-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.826-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:dataset_alias_example_alias_consumer
+[2024-11-05T03:31:26.840-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.839-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:dataset_alias_example_alias_consumer
+[2024-11-05T03:31:26.853-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.853-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:dataset_alias_example_alias_consumer
+[2024-11-05T03:31:26.873-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.873-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:dataset_alias_example_alias_consumer
+[2024-11-05T03:31:26.886-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.885-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:dataset_alias_example_alias_consumer
+[2024-11-05T03:31:26.898-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.898-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:dataset_alias_example_alias_consumer
+[2024-11-05T03:31:26.911-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.911-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:dataset_alias_example_alias_consumer
+[2024-11-05T03:31:26.939-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.939-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:dataset_s3_bucket_consumer
+[2024-11-05T03:31:26.952-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.951-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:dataset_s3_bucket_consumer
+[2024-11-05T03:31:26.966-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.966-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:dataset_s3_bucket_consumer
+[2024-11-05T03:31:26.984-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.983-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:dataset_s3_bucket_consumer
+[2024-11-05T03:31:26.995-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:26.995-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:dataset_s3_bucket_consumer
+[2024-11-05T03:31:27.007-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:27.007-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:dataset_s3_bucket_consumer
+[2024-11-05T03:31:27.019-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:27.019-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:dataset_s3_bucket_consumer
+[2024-11-05T03:31:27.020-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:27.019-0500] {dag.py:3239} INFO - Sync 4 DAGs
+[2024-11-05T03:31:27.029-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:27.029-0500] {dag.py:3262} INFO - Creating ORM DAG for dataset_s3_bucket_producer
+[2024-11-05T03:31:27.029-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:27.029-0500] {dag.py:3262} INFO - Creating ORM DAG for dataset_s3_bucket_consumer
+[2024-11-05T03:31:27.029-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:27.029-0500] {dag.py:3262} INFO - Creating ORM DAG for dataset_alias_example_alias_producer
+[2024-11-05T03:31:27.030-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:27.030-0500] {dag.py:3262} INFO - Creating ORM DAG for dataset_alias_example_alias_consumer
+[2024-11-05T03:31:27.101-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:27.101-0500] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2024-11-05T03:31:27.101-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:27.101-0500] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2024-11-05T03:31:27.101-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:27.101-0500] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2024-11-05T03:31:27.102-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:27.102-0500] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2024-11-05T03:31:27.121-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.582 seconds
+[2024-11-05T03:32:32.619-0500] {processor.py:186} INFO - Started process (PID=16058) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2024-11-05T03:32:32.638-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2024-11-05T03:32:32.641-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:32.640-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2024-11-05T03:32:32.695-0500] {processor.py:925} INFO - DAG(s) 'dataset_s3_bucket_consumer', 'dataset_alias_example_alias_producer', 'dataset_alias_example_alias_consumer', 'dataset_s3_bucket_producer' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2024-11-05T03:32:32.741-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:32.740-0500] {dag.py:3239} INFO - Sync 4 DAGs
+[2024-11-05T03:32:32.763-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:32.763-0500] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2024-11-05T03:32:32.766-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:32.766-0500] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2024-11-05T03:32:32.768-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:32.767-0500] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2024-11-05T03:32:32.769-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:32.769-0500] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2024-11-05T03:32:32.825-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.213 seconds
+[2024-11-05T03:33:27.464-0500] {processor.py:186} INFO - Started process (PID=16241) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2024-11-05T03:33:27.484-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py for tasks to queue
+[2024-11-05T03:33:27.487-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:27.487-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2024-11-05T03:33:27.519-0500] {processor.py:925} INFO - DAG(s) 'dataset_s3_bucket_consumer', 'dataset_alias_example_alias_producer', 'dataset_alias_example_alias_consumer', 'dataset_s3_bucket_producer' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py
+[2024-11-05T03:33:27.616-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:27.616-0500] {dag.py:3239} INFO - Sync 4 DAGs
+[2024-11-05T03:33:27.629-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:27.629-0500] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_consumer to None, run_after=None
+[2024-11-05T03:33:27.630-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:27.630-0500] {dag.py:4180} INFO - Setting next_dagrun for dataset_alias_example_alias_producer to None, run_after=None
+[2024-11-05T03:33:27.631-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:27.631-0500] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_consumer to None, run_after=None
+[2024-11-05T03:33:27.631-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:27.631-0500] {dag.py:4180} INFO - Setting next_dagrun for dataset_s3_bucket_producer to None, run_after=None
+[2024-11-05T03:33:27.669-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dataset_alias.py took 0.214 seconds

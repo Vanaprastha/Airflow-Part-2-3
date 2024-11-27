@@ -1,0 +1,140 @@
+[2024-11-27T11:35:41.611-0500] {processor.py:186} INFO - Started process (PID=26444) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:35:41.611-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py for tasks to queue
+[2024-11-27T11:35:41.612-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:35:41.612-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:35:41.619-0500] {processor.py:925} INFO - DAG(s) 'sleep_python' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:35:41.687-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:35:41.687-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:sleep_python
+[2024-11-27T11:35:41.699-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:35:41.699-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:sleep_python
+[2024-11-27T11:35:41.711-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:35:41.711-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:sleep_python
+[2024-11-27T11:35:41.731-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:35:41.731-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:sleep_python
+[2024-11-27T11:35:41.743-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:35:41.743-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:sleep_python
+[2024-11-27T11:35:41.755-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:35:41.754-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:sleep_python
+[2024-11-27T11:35:41.766-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:35:41.766-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:sleep_python
+[2024-11-27T11:35:41.766-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:35:41.766-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:35:41.777-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:35:41.777-0500] {dag.py:3262} INFO - Creating ORM DAG for sleep_python
+[2024-11-27T11:35:41.782-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:35:41.782-0500] {dag.py:4180} INFO - Setting next_dagrun for sleep_python to 2024-11-26 00:00:00+00:00, run_after=2024-11-27 00:00:00+00:00
+[2024-11-27T11:35:41.797-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py took 0.189 seconds
+[2024-11-27T11:36:46.038-0500] {processor.py:186} INFO - Started process (PID=26594) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:36:46.040-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py for tasks to queue
+[2024-11-27T11:36:46.043-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:36:46.042-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:36:46.051-0500] {processor.py:925} INFO - DAG(s) 'sleep_python' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:36:46.059-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:36:46.058-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:36:46.070-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:36:46.069-0500] {dag.py:4180} INFO - Setting next_dagrun for sleep_python to 2024-11-26 00:00:00+00:00, run_after=2024-11-27 00:00:00+00:00
+[2024-11-27T11:36:46.087-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py took 0.054 seconds
+[2024-11-27T11:37:25.423-0500] {processor.py:186} INFO - Started process (PID=26660) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:37:25.442-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py for tasks to queue
+[2024-11-27T11:37:25.446-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:37:25.445-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:37:25.455-0500] {processor.py:925} INFO - DAG(s) 'sleep_python' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:37:25.464-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:37:25.464-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:37:25.583-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:37:25.583-0500] {dag.py:4180} INFO - Setting next_dagrun for sleep_python to 2024-11-26 00:00:00+00:00, run_after=2024-11-27 00:00:00+00:00
+[2024-11-27T11:37:25.621-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py took 0.203 seconds
+[2024-11-27T11:38:06.421-0500] {processor.py:186} INFO - Started process (PID=26704) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:38:06.441-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py for tasks to queue
+[2024-11-27T11:38:06.444-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:38:06.443-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:38:06.455-0500] {processor.py:925} INFO - DAG(s) 'sleep_python' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:38:06.463-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:38:06.463-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:38:06.475-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:38:06.475-0500] {dag.py:4180} INFO - Setting next_dagrun for sleep_python to 2024-11-26 00:00:00+00:00, run_after=2024-11-27 00:00:00+00:00
+[2024-11-27T11:38:06.490-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py took 0.073 seconds
+[2024-11-27T11:38:43.102-0500] {processor.py:186} INFO - Started process (PID=26749) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:38:43.103-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py for tasks to queue
+[2024-11-27T11:38:43.105-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:38:43.105-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:38:43.111-0500] {processor.py:925} INFO - DAG(s) 'sleep_python' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:38:43.256-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:38:43.256-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:38:43.266-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:38:43.265-0500] {dag.py:4180} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-11-27T11:38:43.301-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py took 0.201 seconds
+[2024-11-27T11:39:07.745-0500] {processor.py:186} INFO - Started process (PID=26800) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:39:07.745-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py for tasks to queue
+[2024-11-27T11:39:07.747-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:07.747-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:39:07.752-0500] {processor.py:925} INFO - DAG(s) 'sleep_python' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:39:07.757-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:07.756-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:39:07.771-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:07.771-0500] {dag.py:4180} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-11-27T11:39:07.788-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py took 0.046 seconds
+[2024-11-27T11:40:12.198-0500] {processor.py:186} INFO - Started process (PID=26951) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:40:12.218-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py for tasks to queue
+[2024-11-27T11:40:12.221-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:40:12.220-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:40:12.231-0500] {processor.py:925} INFO - DAG(s) 'sleep_python' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:40:12.242-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:40:12.242-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:40:12.252-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:40:12.252-0500] {dag.py:4180} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-11-27T11:40:12.269-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py took 0.079 seconds
+[2024-11-27T11:40:50.008-0500] {processor.py:186} INFO - Started process (PID=27002) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:40:50.008-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py for tasks to queue
+[2024-11-27T11:40:50.009-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:40:50.009-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:40:50.015-0500] {processor.py:925} INFO - DAG(s) 'sleep_python' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:40:50.028-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:40:50.028-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:40:50.161-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:40:50.161-0500] {dag.py:4180} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-11-27T11:40:50.197-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py took 0.194 seconds
+[2024-11-27T11:41:27.985-0500] {processor.py:186} INFO - Started process (PID=27071) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:41:28.004-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py for tasks to queue
+[2024-11-27T11:41:28.006-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:41:28.006-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:41:28.013-0500] {processor.py:925} INFO - DAG(s) 'sleep_python' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:41:28.024-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:41:28.024-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:41:28.038-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:41:28.038-0500] {dag.py:4180} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-11-27T11:41:28.056-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py took 0.075 seconds
+[2024-11-27T11:42:05.438-0500] {processor.py:186} INFO - Started process (PID=27110) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:42:05.457-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py for tasks to queue
+[2024-11-27T11:42:05.458-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:42:05.458-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:42:05.470-0500] {processor.py:925} INFO - DAG(s) 'sleep_python' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:42:05.480-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:42:05.480-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:42:05.492-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:42:05.491-0500] {dag.py:4180} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-11-27T11:42:05.611-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py took 0.177 seconds
+[2024-11-27T11:42:47.754-0500] {processor.py:186} INFO - Started process (PID=27152) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:42:47.772-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py for tasks to queue
+[2024-11-27T11:42:47.774-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:42:47.774-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:42:47.903-0500] {processor.py:925} INFO - DAG(s) 'sleep_python' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py
+[2024-11-27T11:42:47.910-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:42:47.910-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:42:47.922-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:42:47.922-0500] {dag.py:4180} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-11-27T11:42:47.954-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/sleep_python.py took 0.203 seconds

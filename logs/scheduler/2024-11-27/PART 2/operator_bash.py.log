@@ -1,0 +1,259 @@
+[2024-11-27T11:47:59.325-0500] {processor.py:186} INFO - Started process (PID=27766) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:47:59.325-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:47:59.327-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:47:59.327-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:47:59.336-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:47:59.426-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:47:59.426-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:47:59.441-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:47:59.440-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:47:59.498-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.177 seconds
+[2024-11-27T11:49:40.836-0500] {processor.py:186} INFO - Started process (PID=27934) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:49:40.855-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:49:40.859-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:49:40.858-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:49:40.867-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:49:40.877-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:49:40.877-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:49:40.883-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:49:40.883-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:49:40.900-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.071 seconds
+[2024-11-27T11:50:53.178-0500] {processor.py:186} INFO - Started process (PID=28015) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:50:53.180-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:50:53.182-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:50:53.182-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:50:53.188-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:50:53.196-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:50:53.196-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:50:53.203-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:50:53.203-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:50:53.219-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.047 seconds
+[2024-11-27T11:51:23.040-0500] {processor.py:186} INFO - Started process (PID=28069) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:51:23.040-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:51:23.042-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:51:23.042-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:51:23.047-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:51:23.055-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:51:23.055-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:51:23.062-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:51:23.062-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:51:23.078-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.042 seconds
+[2024-11-27T11:52:33.194-0500] {processor.py:186} INFO - Started process (PID=28213) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:52:33.213-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:52:33.216-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:52:33.216-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:52:33.223-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:52:33.234-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:52:33.234-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:52:33.241-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:52:33.241-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:52:33.257-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.066 seconds
+[2024-11-27T11:53:23.257-0500] {processor.py:186} INFO - Started process (PID=28325) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:53:23.276-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:53:23.278-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:53:23.278-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:53:23.284-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:53:23.292-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:53:23.292-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:53:23.300-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:53:23.300-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:53:23.321-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.068 seconds
+[2024-11-27T11:54:27.443-0500] {processor.py:186} INFO - Started process (PID=28395) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:54:27.462-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:54:27.465-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:54:27.464-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:54:27.474-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:54:27.483-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:54:27.483-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:54:27.490-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:54:27.490-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:54:27.506-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.068 seconds
+[2024-11-27T11:55:38.593-0500] {processor.py:186} INFO - Started process (PID=28998) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:55:38.594-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:55:38.596-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:55:38.596-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:55:38.602-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:55:38.611-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:55:38.610-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:55:38.618-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:55:38.618-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:55:38.635-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.046 seconds
+[2024-11-27T11:56:23.936-0500] {processor.py:186} INFO - Started process (PID=29083) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:56:23.956-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:56:23.958-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:56:23.958-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:56:23.965-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:56:23.974-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:56:23.974-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:56:24.084-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:56:24.084-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:56:24.121-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.189 seconds
+[2024-11-27T11:57:10.851-0500] {processor.py:186} INFO - Started process (PID=29163) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:57:10.870-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:57:10.873-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:57:10.873-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:57:10.880-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:57:10.887-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:57:10.887-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:57:10.895-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:57:10.894-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:57:10.910-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.063 seconds
+[2024-11-27T11:57:53.062-0500] {processor.py:186} INFO - Started process (PID=29237) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:57:53.081-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:57:53.084-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:57:53.084-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:57:53.090-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:57:53.098-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:57:53.098-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:57:53.106-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:57:53.106-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:57:53.223-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.164 seconds
+[2024-11-27T11:58:36.277-0500] {processor.py:186} INFO - Started process (PID=29285) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:58:36.296-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:58:36.297-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:58:36.297-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:58:36.303-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:58:36.313-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:58:36.312-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:58:36.320-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:58:36.320-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:58:36.336-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.063 seconds
+[2024-11-27T11:59:19.733-0500] {processor.py:186} INFO - Started process (PID=29335) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:59:19.752-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T11:59:19.756-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:59:19.756-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:59:19.762-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T11:59:19.770-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:59:19.770-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:59:19.777-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:59:19.777-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T11:59:19.793-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.067 seconds
+[2024-11-27T12:00:07.729-0500] {processor.py:186} INFO - Started process (PID=29392) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:00:07.748-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:00:07.749-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:07.748-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:00:07.753-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:00:07.761-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:07.761-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:00:07.768-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:07.768-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:00:07.784-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.069 seconds
+[2024-11-27T12:00:54.296-0500] {processor.py:186} INFO - Started process (PID=29528) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:00:54.297-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:00:54.298-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:54.298-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:00:54.302-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:00:54.310-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:54.310-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:00:54.317-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:54.317-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:00:54.337-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.044 seconds
+[2024-11-27T12:02:09.570-0500] {processor.py:186} INFO - Started process (PID=29644) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:02:09.588-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:02:09.590-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:09.589-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:02:09.595-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:02:09.606-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:09.606-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:02:09.616-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:09.616-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:02:09.638-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.074 seconds
+[2024-11-27T12:02:59.553-0500] {processor.py:186} INFO - Started process (PID=29701) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:02:59.573-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:02:59.575-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:59.575-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:02:59.586-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:02:59.596-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:59.596-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:02:59.701-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:59.701-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:02:59.739-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.191 seconds
+[2024-11-27T12:03:25.697-0500] {processor.py:186} INFO - Started process (PID=29807) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:03:25.697-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:03:25.699-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:25.698-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:03:25.704-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:03:25.712-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:25.712-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:03:25.720-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:25.720-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:03:25.739-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.046 seconds
+[2024-11-27T12:04:43.618-0500] {processor.py:186} INFO - Started process (PID=30430) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:04:43.637-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:04:43.640-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:43.639-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:04:43.646-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:04:43.655-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:43.655-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:04:43.662-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:43.662-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:04:43.679-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.064 seconds
+[2024-11-27T12:05:33.920-0500] {processor.py:186} INFO - Started process (PID=30917) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:05:33.939-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:05:33.942-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:33.942-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:05:33.951-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:05:33.960-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:33.960-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:05:34.067-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:34.067-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:05:34.103-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.190 seconds
+[2024-11-27T12:06:24.554-0500] {processor.py:186} INFO - Started process (PID=31049) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:06:24.573-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:06:24.575-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:24.574-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:06:24.581-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:06:24.590-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:24.589-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:06:24.599-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:24.599-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:06:24.618-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.067 seconds
+[2024-11-27T12:07:14.421-0500] {processor.py:186} INFO - Started process (PID=31632) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:07:14.422-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:07:14.424-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:14.423-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:07:14.428-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:07:14.436-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:14.436-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:07:14.538-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:14.537-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:07:14.577-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.161 seconds
+[2024-11-27T12:08:07.070-0500] {processor.py:186} INFO - Started process (PID=31788) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:08:07.090-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:08:07.093-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:07.093-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:08:07.102-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:08:07.112-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:07.111-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:08:07.118-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:07.118-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:08:07.134-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.069 seconds
+[2024-11-27T12:08:57.208-0500] {processor.py:186} INFO - Started process (PID=31870) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:08:57.227-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:08:57.230-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:57.230-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:08:57.239-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:08:57.248-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:57.248-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:08:57.255-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:57.254-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:08:57.271-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.068 seconds
+[2024-11-27T12:09:45.033-0500] {processor.py:186} INFO - Started process (PID=31955) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:09:45.034-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:09:45.036-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:45.036-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:09:45.041-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:09:45.049-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:45.049-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:09:45.056-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:45.055-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:09:45.074-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.047 seconds
+[2024-11-27T12:10:30.008-0500] {processor.py:186} INFO - Started process (PID=32045) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:10:30.027-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:10:30.031-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:30.030-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:10:30.039-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:10:30.048-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:30.048-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:10:30.055-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:30.055-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:10:30.070-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.067 seconds
+[2024-11-27T12:11:13.222-0500] {processor.py:186} INFO - Started process (PID=32097) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:11:13.241-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:11:13.244-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:13.243-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:11:13.252-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:11:13.260-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:13.260-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:11:13.266-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:13.266-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:11:13.282-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.064 seconds
+[2024-11-27T12:11:59.592-0500] {processor.py:186} INFO - Started process (PID=32192) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:11:59.611-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:11:59.612-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:59.612-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:11:59.617-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:11:59.628-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:59.628-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:11:59.638-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:59.638-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:11:59.657-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.070 seconds
+[2024-11-27T12:12:44.053-0500] {processor.py:186} INFO - Started process (PID=32248) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:12:44.072-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:12:44.075-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:44.074-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:12:44.082-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:12:44.091-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:44.090-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:12:44.097-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:44.097-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:12:44.113-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.063 seconds
+[2024-11-27T12:13:29.132-0500] {processor.py:186} INFO - Started process (PID=32304) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:13:29.151-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:13:29.153-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:29.152-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:13:29.159-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:13:29.169-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:29.169-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:29.178-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:29.177-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:13:29.195-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.066 seconds
+[2024-11-27T12:13:58.732-0500] {processor.py:186} INFO - Started process (PID=32414) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:13:58.750-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:13:58.754-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:58.753-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:13:58.761-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:13:58.772-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:58.772-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:58.779-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:58.779-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:13:58.800-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.071 seconds
+[2024-11-27T12:15:30.747-0500] {processor.py:186} INFO - Started process (PID=32562) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:15:30.767-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:15:30.770-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:30.769-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:15:30.780-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:15:30.800-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:30.800-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:15:30.812-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:30.812-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:15:30.983-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.242 seconds
+[2024-11-27T12:16:32.998-0500] {processor.py:186} INFO - Started process (PID=32636) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:16:33.017-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:16:33.021-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:33.020-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:16:33.029-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:16:33.037-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:33.037-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:16:33.044-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:33.044-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:16:33.060-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.068 seconds
+[2024-11-27T12:17:31.615-0500] {processor.py:186} INFO - Started process (PID=32707) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:17:31.634-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:17:31.637-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:31.637-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:17:31.646-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:17:31.655-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:31.654-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:31.662-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:31.662-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:17:31.794-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.182 seconds
+[2024-11-27T12:17:56.614-0500] {processor.py:186} INFO - Started process (PID=32813) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:17:56.615-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:17:56.617-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:56.617-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:17:56.624-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:17:56.636-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:56.636-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:56.645-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:56.644-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:17:56.665-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.056 seconds
+[2024-11-27T12:19:37.362-0500] {processor.py:186} INFO - Started process (PID=32984) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:19:37.363-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:19:37.365-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:37.365-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:19:37.373-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:19:37.384-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:37.383-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:19:37.391-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:37.391-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:19:37.540-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.182 seconds
+[2024-11-27T12:20:45.410-0500] {processor.py:186} INFO - Started process (PID=33059) to work on /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:20:45.429-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 2/operator_bash.py for tasks to queue
+[2024-11-27T12:20:45.431-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:45.431-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:20:45.440-0500] {processor.py:925} INFO - DAG(s) 'dag_with_bash_operator' retrieved from /home/vanaprastha/airflow/dags/PART 2/operator_bash.py
+[2024-11-27T12:20:45.449-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:45.449-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:20:45.456-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:45.455-0500] {dag.py:4180} INFO - Setting next_dagrun for dag_with_bash_operator to None, run_after=None
+[2024-11-27T12:20:45.475-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 2/operator_bash.py took 0.071 seconds

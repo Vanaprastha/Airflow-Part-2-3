@@ -1,0 +1,20 @@
+[2024-11-05T03:31:20.793-0500] {processor.py:186} INFO - Started process (PID=15881) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T03:31:20.794-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2024-11-05T03:31:20.797-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:20.797-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T03:31:20.800-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T03:31:20.807-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.020 seconds
+[2024-11-05T03:32:24.594-0500] {processor.py:186} INFO - Started process (PID=16047) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T03:32:24.614-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2024-11-05T03:32:24.617-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:24.616-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T03:32:24.619-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T03:32:24.630-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.044 seconds
+[2024-11-05T03:33:22.304-0500] {processor.py:186} INFO - Started process (PID=16154) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T03:33:22.323-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2024-11-05T03:33:22.325-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:22.324-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T03:33:22.326-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T03:33:22.334-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.033 seconds
+[2024-11-05T03:34:19.084-0500] {processor.py:186} INFO - Started process (PID=16390) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T03:34:19.104-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2024-11-05T03:34:19.107-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:19.106-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T03:34:19.110-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T03:34:19.120-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.042 seconds

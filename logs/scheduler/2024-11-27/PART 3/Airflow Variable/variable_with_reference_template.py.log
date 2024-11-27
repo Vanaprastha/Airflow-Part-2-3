@@ -1,0 +1,155 @@
+[2024-11-27T12:03:10.994-0500] {processor.py:186} INFO - Started process (PID=29721) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:03:10.994-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:03:10.997-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:10.996-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:03:11.003-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:03:11.072-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:11.071-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:variable_with_reference_template
+[2024-11-27T12:03:11.083-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:11.082-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:variable_with_reference_template
+[2024-11-27T12:03:11.092-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:11.092-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:variable_with_reference_template
+[2024-11-27T12:03:11.112-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:11.111-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:variable_with_reference_template
+[2024-11-27T12:03:11.124-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:11.124-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:variable_with_reference_template
+[2024-11-27T12:03:11.134-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:11.134-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:variable_with_reference_template
+[2024-11-27T12:03:11.145-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:11.145-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:variable_with_reference_template
+[2024-11-27T12:03:11.145-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:11.145-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:03:11.154-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:11.154-0500] {dag.py:3262} INFO - Creating ORM DAG for variable_with_reference_template
+[2024-11-27T12:03:11.159-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:11.158-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:03:11.270-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.279 seconds
+[2024-11-27T12:04:28.418-0500] {processor.py:186} INFO - Started process (PID=30131) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:04:28.437-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:04:28.441-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:28.440-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:04:28.453-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:04:28.464-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:28.464-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:04:28.475-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:28.475-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:04:28.588-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.175 seconds
+[2024-11-27T12:05:19.007-0500] {processor.py:186} INFO - Started process (PID=30888) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:05:19.008-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:05:19.009-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:19.009-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:05:19.017-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:05:19.031-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:19.031-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:05:19.190-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:19.190-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:05:19.205-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.201 seconds
+[2024-11-27T12:06:09.896-0500] {processor.py:186} INFO - Started process (PID=31029) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:06:09.915-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:06:09.918-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:09.918-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:06:09.927-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:06:09.936-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:09.936-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:06:09.946-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:09.946-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:06:10.057-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.165 seconds
+[2024-11-27T12:07:01.238-0500] {processor.py:186} INFO - Started process (PID=31609) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:07:01.240-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:07:01.242-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:01.242-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:07:01.250-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:07:01.259-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:01.259-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:07:01.367-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:01.367-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:07:01.382-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.148 seconds
+[2024-11-27T12:07:54.275-0500] {processor.py:186} INFO - Started process (PID=31765) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:07:54.276-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:07:54.278-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:54.277-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:07:54.285-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:07:54.295-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:54.295-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:07:54.306-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:54.306-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:07:54.324-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.054 seconds
+[2024-11-27T12:08:42.884-0500] {processor.py:186} INFO - Started process (PID=31846) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:08:42.902-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:08:42.905-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:42.905-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:08:42.916-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:08:42.928-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:42.928-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:08:42.939-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:42.939-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:08:42.954-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.076 seconds
+[2024-11-27T12:09:30.158-0500] {processor.py:186} INFO - Started process (PID=31919) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:09:30.176-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:09:30.179-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:30.178-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:09:30.187-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:09:30.197-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:30.197-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:09:30.208-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:30.208-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:09:30.227-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.072 seconds
+[2024-11-27T12:10:15.402-0500] {processor.py:186} INFO - Started process (PID=32017) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:10:15.421-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:10:15.424-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:15.424-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:10:15.433-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:10:15.441-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:15.441-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:10:15.453-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:15.453-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:10:15.470-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.072 seconds
+[2024-11-27T12:11:00.441-0500] {processor.py:186} INFO - Started process (PID=32082) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:11:00.460-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:11:00.462-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:00.462-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:11:00.469-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:11:00.480-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:00.480-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:11:00.494-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:00.493-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:11:00.510-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.074 seconds
+[2024-11-27T12:11:45.282-0500] {processor.py:186} INFO - Started process (PID=32141) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:11:45.283-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:11:45.285-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:45.285-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:11:45.292-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:11:45.300-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:45.300-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:11:45.312-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:45.311-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:11:45.327-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.049 seconds
+[2024-11-27T12:12:29.882-0500] {processor.py:186} INFO - Started process (PID=32231) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:12:29.901-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:12:29.904-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:29.904-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:12:29.915-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:12:29.923-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:29.923-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:12:29.933-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:29.933-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:12:29.948-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.071 seconds
+[2024-11-27T12:13:16.093-0500] {processor.py:186} INFO - Started process (PID=32287) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:13:16.094-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:13:16.094-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:16.094-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:13:16.101-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:13:16.109-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:16.109-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:16.120-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:16.120-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:13:16.136-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.047 seconds
+[2024-11-27T12:13:46.082-0500] {processor.py:186} INFO - Started process (PID=32332) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:13:46.100-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:13:46.101-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:46.101-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:13:46.107-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:13:46.120-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:46.120-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:46.131-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:46.131-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:13:46.149-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.070 seconds
+[2024-11-27T12:15:13.485-0500] {processor.py:186} INFO - Started process (PID=32538) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:15:13.503-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:15:13.507-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:13.506-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:15:13.517-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:15:13.527-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:13.527-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:15:13.539-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:13.539-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:15:13.671-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.190 seconds
+[2024-11-27T12:16:18.724-0500] {processor.py:186} INFO - Started process (PID=32613) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:16:18.743-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:16:18.744-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:18.744-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:16:18.749-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:16:18.758-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:18.757-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:16:18.772-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:18.772-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:16:18.790-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.073 seconds
+[2024-11-27T12:17:15.021-0500] {processor.py:186} INFO - Started process (PID=32691) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:17:15.040-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:17:15.043-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:15.043-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:17:15.053-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:17:15.062-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:15.062-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:15.172-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:15.172-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:17:15.210-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.191 seconds
+[2024-11-27T12:17:43.983-0500] {processor.py:186} INFO - Started process (PID=32727) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:17:43.983-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:17:43.984-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:43.984-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:17:43.990-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:17:44.004-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:44.004-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:44.015-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:44.015-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:17:44.032-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.053 seconds
+[2024-11-27T12:19:17.697-0500] {processor.py:186} INFO - Started process (PID=32959) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:19:17.716-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:19:17.720-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:17.720-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:19:17.729-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:19:17.738-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:17.738-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:19:17.749-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:17.748-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:19:17.865-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.173 seconds
+[2024-11-27T12:20:31.051-0500] {processor.py:186} INFO - Started process (PID=33042) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:20:31.052-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:20:31.054-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:31.054-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:20:31.061-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:20:31.074-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:31.074-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:20:31.089-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:31.089-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:20:31.107-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.059 seconds
+[2024-11-27T12:21:26.586-0500] {processor.py:186} INFO - Started process (PID=33107) to work on /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:21:26.604-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py for tasks to queue
+[2024-11-27T12:21:26.606-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:26.606-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:21:26.615-0500] {processor.py:925} INFO - DAG(s) 'variable_with_reference_template' retrieved from /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py
+[2024-11-27T12:21:26.627-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:26.627-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:21:26.639-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:26.638-0500] {dag.py:4180} INFO - Setting next_dagrun for variable_with_reference_template to None, run_after=None
+[2024-11-27T12:21:26.790-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Airflow Variable/variable_with_reference_template.py took 0.207 seconds

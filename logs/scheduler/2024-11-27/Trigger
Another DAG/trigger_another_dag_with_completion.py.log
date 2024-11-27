@@ -1,0 +1,32 @@
+[2024-11-27T11:39:08.913-0500] {processor.py:186} INFO - Started process (PID=26805) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/trigger_another_dag_with_completion.py
+[2024-11-27T11:39:08.914-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/trigger_another_dag_with_completion.py for tasks to queue
+[2024-11-27T11:39:08.915-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:08.915-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/trigger_another_dag_with_completion.py
+[2024-11-27T11:39:08.920-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/trigger_another_dag_with_completion.py
+[2024-11-27T11:39:09.010-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:09.009-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:trigger_another_dag_without_completion
+[2024-11-27T11:39:09.021-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:09.020-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:trigger_another_dag_without_completion
+[2024-11-27T11:39:09.031-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:09.030-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:trigger_another_dag_without_completion
+[2024-11-27T11:39:09.047-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:09.047-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:trigger_another_dag_without_completion
+[2024-11-27T11:39:09.057-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:09.057-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:trigger_another_dag_without_completion
+[2024-11-27T11:39:09.067-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:09.066-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:trigger_another_dag_without_completion
+[2024-11-27T11:39:09.076-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:09.076-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:trigger_another_dag_without_completion
+[2024-11-27T11:39:09.076-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:09.076-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:39:09.083-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:09.083-0500] {dag.py:3262} INFO - Creating ORM DAG for trigger_another_dag_without_completion
+[2024-11-27T11:39:09.089-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:39:09.089-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:39:09.224-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/trigger_another_dag_with_completion.py took 0.314 seconds
+[2024-11-27T11:40:13.325-0500] {processor.py:186} INFO - Started process (PID=26952) to work on /home/vanaprastha/airflow/dags/Trigger
+Another DAG/trigger_another_dag_with_completion.py
+[2024-11-27T11:40:13.343-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/Trigger
+Another DAG/trigger_another_dag_with_completion.py for tasks to queue
+[2024-11-27T11:40:13.345-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:40:13.345-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/trigger_another_dag_with_completion.py
+[2024-11-27T11:40:13.352-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/Trigger
+Another DAG/trigger_another_dag_with_completion.py
+[2024-11-27T11:40:13.362-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:40:13.361-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:40:13.375-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:40:13.375-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:40:13.511-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/Trigger
+Another DAG/trigger_another_dag_with_completion.py took 0.189 seconds

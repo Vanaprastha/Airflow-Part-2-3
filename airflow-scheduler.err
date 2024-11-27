@@ -1,0 +1,17 @@
+[2024-11-27 12:28:11 -0500] [33676] [INFO] Starting gunicorn 23.0.0
+[2024-11-27 12:28:11 -0500] [33676] [ERROR] Connection in use: ('::', 8793)
+[2024-11-27 12:28:11 -0500] [33676] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/configuration.py:859 FutureWarning: section/key [core/sql_alchemy_conn] has been deprecated, you should use[database/sql_alchemy_conn] instead. Please update your `conf.get*` call to use the new name
+/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/configuration.py:859 FutureWarning: section/key [core/sql_alchemy_conn] has been deprecated, you should use[database/sql_alchemy_conn] instead. Please update your `conf.get*` call to use the new name
+[2024-11-27 12:28:12 -0500] [33676] [ERROR] Connection in use: ('::', 8793)
+[2024-11-27 12:28:12 -0500] [33676] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2024-11-27 12:28:13 -0500] [33676] [ERROR] Connection in use: ('::', 8793)
+[2024-11-27 12:28:13 -0500] [33676] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2024-11-27 12:28:14 -0500] [33676] [ERROR] Connection in use: ('::', 8793)
+[2024-11-27 12:28:14 -0500] [33676] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2024-11-27 12:28:15 -0500] [33676] [ERROR] Connection in use: ('::', 8793)
+[2024-11-27 12:28:15 -0500] [33676] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2024-11-27 12:28:16 -0500] [33676] [ERROR] Can't connect to ('::', 8793)
+/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/configuration.py:859 FutureWarning: section/key [core/sql_alchemy_conn] has been deprecated, you should use[database/sql_alchemy_conn] instead. Please update your `conf.get*` call to use the new name
+/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/configuration.py:859 FutureWarning: section/key [core/sql_alchemy_conn] has been deprecated, you should use[database/sql_alchemy_conn] instead. Please update your `conf.get*` call to use the new name
+/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/configuration.py:859 FutureWarning: section/key [core/sql_alchemy_conn] has been deprecated, you should use[database/sql_alchemy_conn] instead. Please update your `conf.get*` call to use the new name

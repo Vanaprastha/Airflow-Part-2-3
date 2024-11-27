@@ -1,0 +1,29 @@
+[2024-11-05T03:31:35.950-0500] {processor.py:186} INFO - Started process (PID=15925) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-11-05T03:31:35.950-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-11-05T03:31:35.951-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:35.951-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-11-05T03:31:35.956-0500] {processor.py:925} INFO - DAG(s) 'latest_only_with_trigger' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-11-05T03:31:36.042-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:36.041-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:latest_only_with_trigger
+[2024-11-05T03:31:36.055-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:36.055-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:latest_only_with_trigger
+[2024-11-05T03:31:36.065-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:36.065-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:latest_only_with_trigger
+[2024-11-05T03:31:36.085-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:36.084-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:latest_only_with_trigger
+[2024-11-05T03:31:36.097-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:36.096-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:latest_only_with_trigger
+[2024-11-05T03:31:36.109-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:36.109-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:latest_only_with_trigger
+[2024-11-05T03:31:36.121-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:36.120-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:latest_only_with_trigger
+[2024-11-05T03:31:36.121-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:36.121-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:31:36.205-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:36.205-0500] {dag.py:3262} INFO - Creating ORM DAG for latest_only_with_trigger
+[2024-11-05T03:31:36.210-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:36.210-0500] {dag.py:4180} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-11-05 04:00:00+00:00, run_after=2024-11-05 08:00:00+00:00
+[2024-11-05T03:31:36.225-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.280 seconds
+[2024-11-05T03:32:40.427-0500] {processor.py:186} INFO - Started process (PID=16071) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-11-05T03:32:40.449-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-11-05T03:32:40.452-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:40.451-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-11-05T03:32:40.462-0500] {processor.py:925} INFO - DAG(s) 'latest_only_with_trigger' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-11-05T03:32:40.472-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:40.472-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:32:40.483-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:40.483-0500] {dag.py:4180} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-11-05 04:00:00+00:00, run_after=2024-11-05 08:00:00+00:00
+[2024-11-05T03:32:40.499-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.080 seconds
+[2024-11-05T03:33:36.040-0500] {processor.py:186} INFO - Started process (PID=16251) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-11-05T03:33:36.059-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-11-05T03:33:36.060-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:36.060-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-11-05T03:33:36.064-0500] {processor.py:925} INFO - DAG(s) 'latest_only_with_trigger' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-11-05T03:33:36.151-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:36.151-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:33:36.162-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:36.162-0500] {dag.py:4180} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-11-05 04:00:00+00:00, run_after=2024-11-05 08:00:00+00:00
+[2024-11-05T03:33:36.197-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.162 seconds

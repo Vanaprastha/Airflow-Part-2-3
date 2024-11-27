@@ -1,0 +1,528 @@
+[2024-11-27T11:43:39.669-0500] {processor.py:186} INFO - Started process (PID=27239) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:43:39.670-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:43:39.671-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:43:39.671-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:43:39.676-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:43:39.736-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:43:39.736-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:43:39.747-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:43:39.747-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:43:39.884-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.218 seconds
+[2024-11-27T11:44:43.899-0500] {processor.py:186} INFO - Started process (PID=27398) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:44:43.900-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:44:43.901-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:44:43.901-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:44:43.906-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:44:43.914-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:44:43.914-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:44:43.925-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:44:43.924-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:44:44.038-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.144 seconds
+[2024-11-27T11:45:21.770-0500] {processor.py:186} INFO - Started process (PID=27446) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:45:21.788-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:45:21.791-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:45:21.790-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:45:21.800-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:45:21.808-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:45:21.808-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:45:21.916-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:45:21.916-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:45:21.950-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.185 seconds
+[2024-11-27T11:46:02.097-0500] {processor.py:186} INFO - Started process (PID=27510) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:46:02.116-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:46:02.118-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:46:02.117-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:46:02.133-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:46:02.151-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:46:02.151-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:46:02.166-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:46:02.166-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:46:02.182-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.088 seconds
+[2024-11-27T11:46:38.170-0500] {processor.py:186} INFO - Started process (PID=27556) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:46:38.189-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:46:38.191-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:46:38.191-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:46:38.202-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:46:38.212-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:46:38.212-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:46:38.224-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:46:38.224-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:46:38.239-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.074 seconds
+[2024-11-27T11:47:09.889-0500] {processor.py:186} INFO - Started process (PID=27662) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:47:09.890-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:47:09.891-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:47:09.891-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:47:09.897-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:47:09.908-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:47:09.908-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:47:09.920-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:47:09.920-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:47:09.937-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.052 seconds
+[2024-11-27T11:47:45.040-0500] {processor.py:186} INFO - Started process (PID=27731) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:47:45.059-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:47:45.061-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:47:45.060-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:47:45.085-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:47:45.130-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:47:45.130-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:47:45.185-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:47:45.185-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:47:45.266-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.234 seconds
+[2024-11-27T11:47:56.737-0500] {processor.py:186} INFO - Started process (PID=27764) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:47:56.738-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:47:56.740-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:47:56.740-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:47:56.746-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:47:56.754-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:47:56.754-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:47:56.765-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:47:56.765-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:47:56.782-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.049 seconds
+[2024-11-27T11:49:38.353-0500] {processor.py:186} INFO - Started process (PID=27932) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:49:38.372-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:49:38.376-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:49:38.375-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:49:38.384-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:49:38.393-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:49:38.393-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:49:38.404-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:49:38.403-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:49:38.516-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.168 seconds
+[2024-11-27T11:50:50.875-0500] {processor.py:186} INFO - Started process (PID=28013) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:50:50.894-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:50:50.898-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:50:50.898-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:50:50.906-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:50:50.915-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:50:50.914-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:50:50.925-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:50:50.925-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:50:50.940-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.068 seconds
+[2024-11-27T11:51:20.766-0500] {processor.py:186} INFO - Started process (PID=28056) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:51:20.766-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:51:20.767-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:51:20.767-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:51:20.772-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:51:20.780-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:51:20.780-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:51:20.793-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:51:20.793-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:51:20.810-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.048 seconds
+[2024-11-27T11:52:31.682-0500] {processor.py:186} INFO - Started process (PID=28211) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:52:31.683-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:52:31.686-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:52:31.685-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:52:31.691-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:52:31.699-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:52:31.699-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:52:31.710-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:52:31.710-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:52:31.820-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.143 seconds
+[2024-11-27T11:53:20.976-0500] {processor.py:186} INFO - Started process (PID=28323) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:53:20.977-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:53:20.978-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:53:20.978-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:53:20.983-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:53:20.992-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:53:20.991-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:53:21.003-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:53:21.003-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:53:21.024-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.051 seconds
+[2024-11-27T11:54:25.152-0500] {processor.py:186} INFO - Started process (PID=28393) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:54:25.153-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:54:25.154-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:54:25.154-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:54:25.159-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:54:25.167-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:54:25.167-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:54:25.178-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:54:25.177-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:54:25.194-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.044 seconds
+[2024-11-27T11:55:36.017-0500] {processor.py:186} INFO - Started process (PID=28978) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:55:36.019-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:55:36.021-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:55:36.021-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:55:36.030-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:55:36.043-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:55:36.043-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:55:36.061-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:55:36.061-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:55:36.406-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.393 seconds
+[2024-11-27T11:56:21.809-0500] {processor.py:186} INFO - Started process (PID=29080) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:56:21.828-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:56:21.831-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:56:21.830-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:56:21.840-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:56:21.849-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:56:21.849-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:56:21.985-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:56:21.985-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:56:22.021-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.215 seconds
+[2024-11-27T11:57:08.578-0500] {processor.py:186} INFO - Started process (PID=29161) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:57:08.578-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:57:08.581-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:57:08.580-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:57:08.586-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:57:08.594-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:57:08.594-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:57:08.605-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:57:08.605-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:57:08.622-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.049 seconds
+[2024-11-27T11:57:51.321-0500] {processor.py:186} INFO - Started process (PID=29235) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:57:51.341-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:57:51.344-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:57:51.343-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:57:51.351-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:57:51.362-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:57:51.362-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:57:51.493-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:57:51.493-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:57:51.531-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.216 seconds
+[2024-11-27T11:58:34.562-0500] {processor.py:186} INFO - Started process (PID=29283) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:58:34.580-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:58:34.583-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:58:34.583-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:58:34.592-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:58:34.601-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:58:34.601-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:58:34.615-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:58:34.614-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:58:34.633-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.075 seconds
+[2024-11-27T11:59:17.428-0500] {processor.py:186} INFO - Started process (PID=29333) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:59:17.430-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T11:59:17.431-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:59:17.431-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:59:17.436-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T11:59:17.444-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:59:17.444-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T11:59:17.455-0500] {logging_mixin.py:190} INFO - [2024-11-27T11:59:17.455-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T11:59:17.471-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.046 seconds
+[2024-11-27T12:00:06.135-0500] {processor.py:186} INFO - Started process (PID=29390) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:00:06.154-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:00:06.157-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:06.157-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:00:06.168-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:00:06.177-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:06.177-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:00:06.188-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:06.187-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:00:06.203-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.072 seconds
+[2024-11-27T12:00:52.010-0500] {processor.py:186} INFO - Started process (PID=29525) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:00:52.029-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:00:52.032-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:52.031-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:00:52.040-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:00:52.049-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:52.048-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:00:52.059-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:52.059-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:00:52.075-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.068 seconds
+[2024-11-27T12:02:07.084-0500] {processor.py:186} INFO - Started process (PID=29641) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:02:07.103-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:02:07.106-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:07.106-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:02:07.115-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:02:07.124-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:07.124-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:02:07.135-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:07.135-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:02:07.269-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.191 seconds
+[2024-11-27T12:02:57.957-0500] {processor.py:186} INFO - Started process (PID=29699) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:02:57.975-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:02:57.979-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:57.979-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:02:57.987-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:02:57.996-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:57.996-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:02:58.104-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:58.103-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:02:58.139-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.186 seconds
+[2024-11-27T12:03:23.414-0500] {processor.py:186} INFO - Started process (PID=29805) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:03:23.415-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:03:23.418-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:23.417-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:03:23.423-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:03:23.431-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:23.431-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:03:23.442-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:23.442-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:03:23.458-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.048 seconds
+[2024-11-27T12:04:41.838-0500] {processor.py:186} INFO - Started process (PID=30343) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:04:41.857-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:04:41.860-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:41.859-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:04:41.870-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:04:41.885-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:41.885-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:04:41.896-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:41.896-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:04:42.028-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.197 seconds
+[2024-11-27T12:05:32.359-0500] {processor.py:186} INFO - Started process (PID=30915) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:05:32.377-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:05:32.381-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:32.381-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:05:32.389-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:05:32.398-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:32.398-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:05:32.508-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:32.508-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:05:32.542-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.187 seconds
+[2024-11-27T12:06:23.007-0500] {processor.py:186} INFO - Started process (PID=31046) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:06:23.026-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:06:23.029-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:23.028-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:06:23.037-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:06:23.046-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:23.046-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:06:23.057-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:23.057-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:06:23.173-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.171 seconds
+[2024-11-27T12:07:12.677-0500] {processor.py:186} INFO - Started process (PID=31628) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:07:12.679-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:07:12.681-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:12.681-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:07:12.688-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:07:12.696-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:12.696-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:07:12.807-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:12.807-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:07:12.845-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.175 seconds
+[2024-11-27T12:08:05.681-0500] {processor.py:186} INFO - Started process (PID=31784) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:08:05.682-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:08:05.683-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:05.683-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:08:05.688-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:08:05.696-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:05.696-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:08:05.706-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:05.706-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:08:05.722-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.044 seconds
+[2024-11-27T12:08:54.921-0500] {processor.py:186} INFO - Started process (PID=31867) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:08:54.940-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:08:54.943-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:54.942-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:08:54.949-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:08:54.958-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:54.958-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:08:54.970-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:54.969-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:08:54.986-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.067 seconds
+[2024-11-27T12:09:42.756-0500] {processor.py:186} INFO - Started process (PID=31953) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:09:42.775-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:09:42.778-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:42.778-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:09:42.787-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:09:42.796-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:42.796-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:09:42.806-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:42.806-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:09:42.823-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.073 seconds
+[2024-11-27T12:10:27.886-0500] {processor.py:186} INFO - Started process (PID=32043) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:10:27.905-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:10:27.907-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:27.907-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:10:27.913-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:10:27.922-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:27.922-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:10:27.935-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:27.934-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:10:27.952-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.069 seconds
+[2024-11-27T12:11:11.485-0500] {processor.py:186} INFO - Started process (PID=32095) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:11:11.504-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:11:11.506-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:11.506-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:11:11.512-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:11:11.521-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:11.521-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:11:11.532-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:11.532-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:11:11.549-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.067 seconds
+[2024-11-27T12:11:57.869-0500] {processor.py:186} INFO - Started process (PID=32189) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:11:57.870-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:11:57.872-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:57.871-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:11:57.876-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:11:57.884-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:57.884-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:11:57.895-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:57.895-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:11:57.911-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.046 seconds
+[2024-11-27T12:12:41.768-0500] {processor.py:186} INFO - Started process (PID=32246) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:12:41.787-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:12:41.790-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:41.789-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:12:41.799-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:12:41.808-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:41.808-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:12:41.818-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:41.818-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:12:41.834-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.070 seconds
+[2024-11-27T12:13:26.719-0500] {processor.py:186} INFO - Started process (PID=32302) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:13:26.732-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:13:26.733-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:26.733-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:13:26.739-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:13:26.748-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:26.748-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:26.759-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:26.759-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:13:26.776-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.061 seconds
+[2024-11-27T12:13:58.155-0500] {processor.py:186} INFO - Started process (PID=32411) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:13:58.174-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:13:58.177-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:58.176-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:13:58.184-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:13:58.194-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:58.194-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:58.206-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:58.206-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:13:58.224-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.074 seconds
+[2024-11-27T12:15:28.144-0500] {processor.py:186} INFO - Started process (PID=32560) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:15:28.163-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:15:28.167-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:28.166-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:15:28.174-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:15:28.183-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:28.183-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:15:28.299-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:28.299-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:15:28.336-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.196 seconds
+[2024-11-27T12:16:30.702-0500] {processor.py:186} INFO - Started process (PID=32634) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:16:30.721-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:16:30.724-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:30.724-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:16:30.731-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:16:30.738-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:30.738-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:16:30.749-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:30.749-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:16:30.764-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.065 seconds
+[2024-11-27T12:17:30.185-0500] {processor.py:186} INFO - Started process (PID=32705) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:17:30.204-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:17:30.207-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:30.206-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:17:30.217-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:17:30.226-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:30.226-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:30.332-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:30.332-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:17:30.368-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.189 seconds
+[2024-11-27T12:17:55.194-0500] {processor.py:186} INFO - Started process (PID=32811) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:17:55.195-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:17:55.196-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:55.196-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:17:55.201-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:17:55.210-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:55.209-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:55.222-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:55.222-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:17:55.239-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.049 seconds
+[2024-11-27T12:19:35.629-0500] {processor.py:186} INFO - Started process (PID=32982) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:19:35.630-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:19:35.631-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:35.631-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:19:35.636-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:19:35.645-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:35.645-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:19:35.768-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:35.768-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:19:35.782-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.156 seconds
+[2024-11-27T12:20:43.612-0500] {processor.py:186} INFO - Started process (PID=33057) to work on /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:20:43.631-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py for tasks to queue
+[2024-11-27T12:20:43.635-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:43.634-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:20:43.645-0500] {processor.py:925} INFO - DAG(s) 'trigger_another_dag_without_completion' retrieved from /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py
+[2024-11-27T12:20:43.659-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:43.659-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:20:43.682-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:43.681-0500] {dag.py:4180} INFO - Setting next_dagrun for trigger_another_dag_without_completion to None, run_after=None
+[2024-11-27T12:20:43.710-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Trigger
+Another DAG/trigger_another_dag_without_completion.py took 0.105 seconds

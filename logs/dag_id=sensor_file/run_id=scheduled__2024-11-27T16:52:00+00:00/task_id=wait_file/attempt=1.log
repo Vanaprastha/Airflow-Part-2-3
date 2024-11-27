@@ -1,0 +1,64 @@
+[2024-11-27T11:53:37.518-0500] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-27T11:53:37.524-0500] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sensor_file.wait_file scheduled__2024-11-27T16:52:00+00:00 [queued]>
+[2024-11-27T11:53:37.527-0500] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sensor_file.wait_file scheduled__2024-11-27T16:52:00+00:00 [queued]>
+[2024-11-27T11:53:37.527-0500] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-27T11:53:37.538-0500] {taskinstance.py:2889} INFO - Executing <Task(FileSensor): wait_file> on 2024-11-27 16:52:00+00:00
+[2024-11-27T11:53:37.544-0500] {logging_mixin.py:190} WARNING - /home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=28339) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-11-27T11:53:37.544-0500] {standard_task_runner.py:72} INFO - Started process 28346 to run task
+[2024-11-27T11:53:37.544-0500] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'sensor_file', 'wait_file', 'scheduled__2024-11-27T16:52:00+00:00', '--job-id', '42', '--raw', '--subdir', 'DAGS_FOLDER/PART 3/Sensor/sensor_file.py', '--cfg-path', '/tmp/tmpe36sc6t2']
+[2024-11-27T11:53:37.545-0500] {standard_task_runner.py:105} INFO - Job 42: Subtask wait_file
+[2024-11-27T11:53:37.570-0500] {task_command.py:467} INFO - Running <TaskInstance: sensor_file.wait_file scheduled__2024-11-27T16:52:00+00:00 [running]> on host VanaPrastha
+[2024-11-27T11:53:37.613-0500] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='sensor_file' AIRFLOW_CTX_TASK_ID='wait_file' AIRFLOW_CTX_EXECUTION_DATE='2024-11-27T16:52:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-27T16:52:00+00:00'
+[2024-11-27T11:53:37.614-0500] {logging_mixin.py:190} INFO - Task instance is in running state
+[2024-11-27T11:53:37.614-0500] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2024-11-27T11:53:37.614-0500] {logging_mixin.py:190} INFO - Current task name:wait_file state:running start_date:2024-11-27 16:53:37.524578+00:00
+[2024-11-27T11:53:37.615-0500] {logging_mixin.py:190} INFO - Dag name:sensor_file and current dag run status:running
+[2024-11-27T11:53:37.615-0500] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-27T11:53:37.615-0500] {baseoperator.py:416} WARNING - FileSensor.execute cannot be called outside TaskInstance!
+[2024-11-27T11:53:37.619-0500] {base.py:84} INFO - Retrieving connection 'fs_default'
+[2024-11-27T11:53:37.619-0500] {filesystem.py:109} INFO - Poking for file /watch/text.txt
+[2024-11-27T11:53:42.620-0500] {filesystem.py:109} INFO - Poking for file /watch/text.txt
+[2024-11-27T11:53:47.620-0500] {filesystem.py:109} INFO - Poking for file /watch/text.txt
+[2024-11-27T11:53:52.621-0500] {filesystem.py:109} INFO - Poking for file /watch/text.txt
+[2024-11-27T11:53:57.622-0500] {filesystem.py:109} INFO - Poking for file /watch/text.txt
+[2024-11-27T11:54:02.623-0500] {filesystem.py:109} INFO - Poking for file /watch/text.txt
+[2024-11-27T11:54:07.623-0500] {filesystem.py:109} INFO - Poking for file /watch/text.txt
+[2024-11-27T11:54:12.624-0500] {filesystem.py:109} INFO - Poking for file /watch/text.txt
+[2024-11-27T11:54:12.879-0500] {local_task_job_runner.py:245} INFO - ::endgroup::
+[2024-11-27T11:54:12.890-0500] {process_utils.py:132} INFO - Sending 15 to group 28346. PIDs of all processes in the group: [28346]
+[2024-11-27T11:54:12.890-0500] {process_utils.py:87} INFO - Sending the signal 15 to group 28346
+[2024-11-27T11:54:12.891-0500] {taskinstance.py:3093} ERROR - Received SIGTERM. Terminating subprocesses.
+[2024-11-27T11:54:12.897-0500] {taskinstance.py:3311} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 417, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/sensors/filesystem.py", line 123, in execute
+    super().execute(context=context)
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 417, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/sensors/base.py", line 334, in execute
+    time.sleep(self._get_next_poke_interval(started_at, run_duration, poke_count))
+  File "/home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3095, in signal_handler
+    raise AirflowTaskTerminated("Task received SIGTERM signal")
+airflow.exceptions.AirflowTaskTerminated: Task received SIGTERM signal
+[2024-11-27T11:54:12.920-0500] {logging_mixin.py:190} INFO - Task instance in failure state
+[2024-11-27T11:54:12.921-0500] {logging_mixin.py:190} INFO - Task start:2024-11-27 16:53:37.524578+00:00 end:2024-11-27 16:54:12.920247+00:00 duration:35.395669
+[2024-11-27T11:54:12.921-0500] {logging_mixin.py:190} INFO - Task:<Task(FileSensor): wait_file> dag:<DAG: sensor_file> dagrun:<DagRun sensor_file @ 2024-11-27 16:52:00+00:00: scheduled__2024-11-27T16:52:00+00:00, state:running, queued_at: 2024-11-27 16:53:34.521492+00:00. externally triggered: False>
+[2024-11-27T11:54:12.922-0500] {logging_mixin.py:190} INFO - Failure caused by Task received SIGTERM signal
+[2024-11-27T11:54:12.922-0500] {taskinstance.py:1225} INFO - Marking task as FAILED. dag_id=sensor_file, task_id=wait_file, run_id=scheduled__2024-11-27T16:52:00+00:00, execution_date=20241127T165200, start_date=20241127T165337, end_date=20241127T165412
+[2024-11-27T11:54:12.936-0500] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-27T11:54:12.943-0500] {process_utils.py:80} INFO - Process psutil.Process(pid=28346, status='terminated', exitcode=2, started='11:53:37') (28346) terminated with exit code 2
+[2024-11-27T11:54:15.738-0500] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-27T11:54:15.745-0500] {taskinstance.py:2603} INFO - Dependencies not met for <TaskInstance: sensor_file.wait_file scheduled__2024-11-27T16:52:00+00:00 [failed]>, dependency 'Task Instance State' FAILED: Task is in the 'failed' state.
+[2024-11-27T11:54:15.746-0500] {local_task_job_runner.py:166} INFO - Task is not able to be run

@@ -1,0 +1,29 @@
+[2024-11-05T03:31:38.305-0500] {processor.py:186} INFO - Started process (PID=15928) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-11-05T03:31:38.306-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-11-05T03:31:38.307-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:38.307-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-11-05T03:31:38.315-0500] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-11-05T03:31:38.404-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:38.403-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2024-11-05T03:31:38.418-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:38.418-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2024-11-05T03:31:38.429-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:38.429-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2024-11-05T03:31:38.450-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:38.450-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:example_bash_operator
+[2024-11-05T03:31:38.464-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:38.463-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:example_bash_operator
+[2024-11-05T03:31:38.476-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:38.476-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:example_bash_operator
+[2024-11-05T03:31:38.489-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:38.488-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:example_bash_operator
+[2024-11-05T03:31:38.489-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:38.489-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:31:38.571-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:38.571-0500] {dag.py:3262} INFO - Creating ORM DAG for example_bash_operator
+[2024-11-05T03:31:38.577-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:38.576-0500] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2024-11-04 00:00:00+00:00, run_after=2024-11-05 00:00:00+00:00
+[2024-11-05T03:31:38.592-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.290 seconds
+[2024-11-05T03:32:43.144-0500] {processor.py:186} INFO - Started process (PID=16074) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-11-05T03:32:43.163-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-11-05T03:32:43.166-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:43.165-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-11-05T03:32:43.179-0500] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-11-05T03:32:43.191-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:43.191-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:32:43.203-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:43.202-0500] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2024-11-04 00:00:00+00:00, run_after=2024-11-05 00:00:00+00:00
+[2024-11-05T03:32:43.222-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.081 seconds
+[2024-11-05T03:33:39.245-0500] {processor.py:186} INFO - Started process (PID=16259) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-11-05T03:33:39.264-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-11-05T03:33:39.266-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:39.265-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-11-05T03:33:39.274-0500] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-11-05T03:33:39.355-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:39.355-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:33:39.365-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:39.365-0500] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2024-11-04 00:00:00+00:00, run_after=2024-11-05 00:00:00+00:00
+[2024-11-05T03:33:39.405-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.163 seconds

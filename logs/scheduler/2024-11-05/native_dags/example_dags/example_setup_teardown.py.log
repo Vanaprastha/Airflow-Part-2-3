@@ -1,0 +1,43 @@
+[2024-11-05T03:30:51.376-0500] {processor.py:186} INFO - Started process (PID=15785) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:30:51.377-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2024-11-05T03:30:51.378-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:30:51.377-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:30:51.382-0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:30:51.470-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:30:51.470-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:example_setup_teardown
+[2024-11-05T03:30:51.485-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:30:51.485-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:example_setup_teardown
+[2024-11-05T03:30:51.497-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:30:51.497-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:example_setup_teardown
+[2024-11-05T03:30:51.515-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:30:51.515-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:example_setup_teardown
+[2024-11-05T03:30:51.525-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:30:51.525-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:example_setup_teardown
+[2024-11-05T03:30:51.536-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:30:51.536-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:example_setup_teardown
+[2024-11-05T03:30:51.546-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:30:51.545-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:example_setup_teardown
+[2024-11-05T03:30:51.546-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:30:51.546-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:30:51.552-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:30:51.552-0500] {dag.py:3262} INFO - Creating ORM DAG for example_setup_teardown
+[2024-11-05T03:30:51.552-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:30:51.552-0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2024-11-05T03:30:51.569-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.196 seconds
+[2024-11-05T03:31:58.631-0500] {processor.py:186} INFO - Started process (PID=16012) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:31:58.650-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2024-11-05T03:31:58.653-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:58.652-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:31:58.663-0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:31:58.673-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:58.673-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:31:58.680-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:58.680-0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2024-11-05T03:31:58.696-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.070 seconds
+[2024-11-05T03:32:53.364-0500] {processor.py:186} INFO - Started process (PID=16100) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:32:53.383-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2024-11-05T03:32:53.386-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:53.385-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:32:53.397-0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:32:53.407-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:53.407-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:32:53.414-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:53.413-0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2024-11-05T03:32:53.431-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.073 seconds
+[2024-11-05T03:33:44.467-0500] {processor.py:186} INFO - Started process (PID=16264) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:33:44.486-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2024-11-05T03:33:44.489-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:44.489-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:33:44.500-0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:33:44.510-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:44.510-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:33:44.516-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:44.516-0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2024-11-05T03:33:44.532-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.069 seconds
+[2024-11-05T03:34:31.418-0500] {processor.py:186} INFO - Started process (PID=16421) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:34:31.437-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2024-11-05T03:34:31.440-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:31.440-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:34:31.453-0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T03:34:31.465-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:31.465-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:34:31.472-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:31.472-0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2024-11-05T03:34:31.489-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.078 seconds

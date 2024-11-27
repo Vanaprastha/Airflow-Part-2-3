@@ -1,0 +1,32 @@
+[2024-11-27T11:49:06.594-0500] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-27T11:49:06.598-0500] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sensor_sleep.wait_sleep scheduled__2024-11-27T16:48:00+00:00 [queued]>
+[2024-11-27T11:49:06.601-0500] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sensor_sleep.wait_sleep scheduled__2024-11-27T16:48:00+00:00 [queued]>
+[2024-11-27T11:49:06.602-0500] {taskinstance.py:2866} INFO - Starting attempt 1 of 1
+[2024-11-27T11:49:06.613-0500] {taskinstance.py:2889} INFO - Executing <Task(TimeDeltaSensor): wait_sleep> on 2024-11-27 16:48:00+00:00
+[2024-11-27T11:49:06.618-0500] {logging_mixin.py:190} WARNING - /home/vanaprastha/anaconda3/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=27906) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-11-27T11:49:06.619-0500] {standard_task_runner.py:72} INFO - Started process 27913 to run task
+[2024-11-27T11:49:06.619-0500] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'sensor_sleep', 'wait_sleep', 'scheduled__2024-11-27T16:48:00+00:00', '--job-id', '39', '--raw', '--subdir', 'DAGS_FOLDER/PART 3/Sensor/sensor_sleep.py', '--cfg-path', '/tmp/tmp5vq6o64m']
+[2024-11-27T11:49:06.619-0500] {standard_task_runner.py:105} INFO - Job 39: Subtask wait_sleep
+[2024-11-27T11:49:06.644-0500] {task_command.py:467} INFO - Running <TaskInstance: sensor_sleep.wait_sleep scheduled__2024-11-27T16:48:00+00:00 [running]> on host VanaPrastha
+[2024-11-27T11:49:06.685-0500] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='sensor_sleep' AIRFLOW_CTX_TASK_ID='wait_sleep' AIRFLOW_CTX_EXECUTION_DATE='2024-11-27T16:48:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-27T16:48:00+00:00'
+[2024-11-27T11:49:06.686-0500] {logging_mixin.py:190} INFO - Task instance is in running state
+[2024-11-27T11:49:06.686-0500] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2024-11-27T11:49:06.686-0500] {logging_mixin.py:190} INFO - Current task name:wait_sleep state:running start_date:2024-11-27 16:49:06.599095+00:00
+[2024-11-27T11:49:06.686-0500] {logging_mixin.py:190} INFO - Dag name:sensor_sleep and current dag run status:running
+[2024-11-27T11:49:06.686-0500] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-27T11:49:06.687-0500] {time_delta.py:51} INFO - Checking if the time (2024-11-27 16:49:30+00:00) has come
+[2024-11-27T11:49:11.688-0500] {time_delta.py:51} INFO - Checking if the time (2024-11-27 16:49:30+00:00) has come
+[2024-11-27T11:49:16.688-0500] {time_delta.py:51} INFO - Checking if the time (2024-11-27 16:49:30+00:00) has come
+[2024-11-27T11:49:21.689-0500] {time_delta.py:51} INFO - Checking if the time (2024-11-27 16:49:30+00:00) has come
+[2024-11-27T11:49:26.690-0500] {time_delta.py:51} INFO - Checking if the time (2024-11-27 16:49:30+00:00) has come
+[2024-11-27T11:49:31.691-0500] {time_delta.py:51} INFO - Checking if the time (2024-11-27 16:49:30+00:00) has come
+[2024-11-27T11:49:31.692-0500] {base.py:336} INFO - Success criteria met. Exiting.
+[2024-11-27T11:49:31.699-0500] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-27T11:49:31.699-0500] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=sensor_sleep, task_id=wait_sleep, run_id=scheduled__2024-11-27T16:48:00+00:00, execution_date=20241127T164800, start_date=20241127T164906, end_date=20241127T164931
+[2024-11-27T11:49:31.730-0500] {logging_mixin.py:190} INFO - Task instance in success state
+[2024-11-27T11:49:31.731-0500] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2024-11-27T11:49:31.731-0500] {logging_mixin.py:190} INFO - Dag name:sensor_sleep queued_at:2024-11-27 16:49:01.690882+00:00
+[2024-11-27T11:49:31.731-0500] {logging_mixin.py:190} INFO - Task hostname:VanaPrastha operator:TimeDeltaSensor
+[2024-11-27T11:49:31.762-0500] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-27T11:49:31.776-0500] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-27T11:49:31.776-0500] {local_task_job_runner.py:245} INFO - ::endgroup::

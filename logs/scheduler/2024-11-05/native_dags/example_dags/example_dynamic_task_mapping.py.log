@@ -1,0 +1,29 @@
+[2024-11-05T03:31:48.288-0500] {processor.py:186} INFO - Started process (PID=15966) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-11-05T03:31:48.289-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-11-05T03:31:48.290-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:48.290-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-11-05T03:31:48.295-0500] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-11-05T03:31:48.381-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:48.380-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:example_dynamic_task_mapping
+[2024-11-05T03:31:48.393-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:48.393-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:example_dynamic_task_mapping
+[2024-11-05T03:31:48.403-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:48.403-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:example_dynamic_task_mapping
+[2024-11-05T03:31:48.420-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:48.420-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:example_dynamic_task_mapping
+[2024-11-05T03:31:48.430-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:48.430-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:example_dynamic_task_mapping
+[2024-11-05T03:31:48.440-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:48.440-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:example_dynamic_task_mapping
+[2024-11-05T03:31:48.450-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:48.450-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:example_dynamic_task_mapping
+[2024-11-05T03:31:48.450-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:48.450-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:31:48.533-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:48.532-0500] {dag.py:3262} INFO - Creating ORM DAG for example_dynamic_task_mapping
+[2024-11-05T03:31:48.533-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:48.533-0500] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2024-11-05T03:31:48.547-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.262 seconds
+[2024-11-05T03:32:49.118-0500] {processor.py:186} INFO - Started process (PID=16086) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-11-05T03:32:49.138-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-11-05T03:32:49.140-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:49.140-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-11-05T03:32:49.151-0500] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-11-05T03:32:49.161-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:49.161-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:32:49.167-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:49.167-0500] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2024-11-05T03:32:49.185-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.071 seconds
+[2024-11-05T03:34:06.204-0500] {processor.py:186} INFO - Started process (PID=16372) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-11-05T03:34:06.223-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-11-05T03:34:06.224-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:06.224-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-11-05T03:34:06.229-0500] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-11-05T03:34:06.239-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:06.239-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:34:06.247-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:06.247-0500] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2024-11-05T03:34:06.264-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.064 seconds

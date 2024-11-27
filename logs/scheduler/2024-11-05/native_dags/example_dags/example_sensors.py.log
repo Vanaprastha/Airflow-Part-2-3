@@ -1,0 +1,43 @@
+[2024-11-05T03:31:00.350-0500] {processor.py:186} INFO - Started process (PID=15844) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:31:00.351-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-11-05T03:31:00.353-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:00.353-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:31:00.361-0500] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:31:00.431-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:00.431-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:example_sensors
+[2024-11-05T03:31:00.443-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:00.442-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:example_sensors
+[2024-11-05T03:31:00.454-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:00.454-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:example_sensors
+[2024-11-05T03:31:00.475-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:00.475-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:example_sensors
+[2024-11-05T03:31:00.488-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:00.487-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:example_sensors
+[2024-11-05T03:31:00.499-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:00.499-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:example_sensors
+[2024-11-05T03:31:00.511-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:00.510-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:example_sensors
+[2024-11-05T03:31:00.511-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:00.511-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:31:00.524-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:00.524-0500] {dag.py:3262} INFO - Creating ORM DAG for example_sensors
+[2024-11-05T03:31:00.525-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:31:00.525-0500] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-11-05T03:31:00.544-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.201 seconds
+[2024-11-05T03:32:05.697-0500] {processor.py:186} INFO - Started process (PID=16023) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:32:05.739-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-11-05T03:32:05.742-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:05.742-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:32:05.757-0500] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:32:05.770-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:05.770-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:32:05.777-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:32:05.777-0500] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-11-05T03:32:07.265-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 1.572 seconds
+[2024-11-05T03:33:00.813-0500] {processor.py:186} INFO - Started process (PID=16115) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:33:00.833-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-11-05T03:33:00.835-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:00.835-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:33:00.848-0500] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:33:00.860-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:00.860-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:33:00.867-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:00.867-0500] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-11-05T03:33:00.972-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.165 seconds
+[2024-11-05T03:33:50.556-0500] {processor.py:186} INFO - Started process (PID=16281) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:33:50.575-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-11-05T03:33:50.578-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:50.578-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:33:50.592-0500] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:33:50.604-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:50.603-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:33:50.610-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:33:50.610-0500] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-11-05T03:33:50.627-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.075 seconds
+[2024-11-05T03:34:36.945-0500] {processor.py:186} INFO - Started process (PID=16450) to work on /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:34:36.946-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-11-05T03:34:36.947-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:36.947-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:34:36.959-0500] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2024-11-05T03:34:36.973-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:36.973-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T03:34:36.981-0500] {logging_mixin.py:190} INFO - [2024-11-05T03:34:36.981-0500] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-11-05T03:34:36.998-0500] {processor.py:208} INFO - Processing /home/vanaprastha/venv/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.057 seconds

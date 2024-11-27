@@ -1,0 +1,176 @@
+[2024-11-27T12:00:41.896-0500] {processor.py:186} INFO - Started process (PID=29445) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:00:41.897-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:00:41.898-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:41.898-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:00:41.904-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:00:41.978-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:41.977-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:xcom_with_return_and_template_reference
+[2024-11-27T12:00:41.989-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:41.989-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:xcom_with_return_and_template_reference
+[2024-11-27T12:00:41.998-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:41.998-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:xcom_with_return_and_template_reference
+[2024-11-27T12:00:42.014-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:42.014-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:xcom_with_return_and_template_reference
+[2024-11-27T12:00:42.023-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:42.023-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:xcom_with_return_and_template_reference
+[2024-11-27T12:00:42.033-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:42.032-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:xcom_with_return_and_template_reference
+[2024-11-27T12:00:42.043-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:42.043-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:xcom_with_return_and_template_reference
+[2024-11-27T12:00:42.044-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:42.043-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:00:42.053-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:42.053-0500] {dag.py:3262} INFO - Creating ORM DAG for xcom_with_return_and_template_reference
+[2024-11-27T12:00:42.060-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:00:42.059-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:00:42.190-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.296 seconds
+[2024-11-27T12:01:56.570-0500] {processor.py:186} INFO - Started process (PID=29629) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:01:56.589-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:01:56.591-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:01:56.590-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:01:56.598-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:01:56.606-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:01:56.606-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:01:56.616-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:01:56.616-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:01:56.736-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.171 seconds
+[2024-11-27T12:02:46.137-0500] {processor.py:186} INFO - Started process (PID=29686) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:02:46.156-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:02:46.157-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:46.157-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:02:46.162-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:02:46.171-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:46.171-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:02:46.279-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:02:46.279-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:02:46.314-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.182 seconds
+[2024-11-27T12:03:13.784-0500] {processor.py:186} INFO - Started process (PID=29727) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:03:13.784-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:03:13.785-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:13.785-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:03:13.791-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:03:13.807-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:13.806-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:03:13.818-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:03:13.818-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:03:13.838-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.057 seconds
+[2024-11-27T12:04:30.931-0500] {processor.py:186} INFO - Started process (PID=30133) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:04:30.932-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:04:30.934-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:30.934-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:04:30.941-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:04:30.949-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:30.949-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:04:30.959-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:04:30.959-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:04:31.077-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.153 seconds
+[2024-11-27T12:05:21.729-0500] {processor.py:186} INFO - Started process (PID=30902) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:05:21.748-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:05:21.751-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:21.751-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:05:21.763-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:05:21.771-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:21.771-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:05:21.875-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:05:21.875-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:05:21.889-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.167 seconds
+[2024-11-27T12:06:12.389-0500] {processor.py:186} INFO - Started process (PID=31032) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:06:12.408-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:06:12.411-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:12.410-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:06:12.419-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:06:12.427-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:12.427-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:06:12.438-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:06:12.437-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:06:12.548-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.163 seconds
+[2024-11-27T12:07:03.747-0500] {processor.py:186} INFO - Started process (PID=31612) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:07:03.748-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:07:03.749-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:03.749-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:07:03.756-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:07:03.765-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:03.765-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:07:03.881-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:03.881-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:07:03.899-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.159 seconds
+[2024-11-27T12:07:56.567-0500] {processor.py:186} INFO - Started process (PID=31769) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:07:56.568-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:07:56.570-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:56.570-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:07:56.577-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:07:56.585-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:56.585-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:07:56.596-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:07:56.596-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:07:56.615-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.053 seconds
+[2024-11-27T12:08:44.618-0500] {processor.py:186} INFO - Started process (PID=31849) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:08:44.637-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:08:44.640-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:44.640-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:08:44.651-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:08:44.660-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:44.660-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:08:44.671-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:08:44.671-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:08:44.686-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.074 seconds
+[2024-11-27T12:09:32.136-0500] {processor.py:186} INFO - Started process (PID=31940) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:09:32.137-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:09:32.138-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:32.138-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:09:32.143-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:09:32.153-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:32.153-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:09:32.167-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:09:32.166-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:09:32.186-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.054 seconds
+[2024-11-27T12:10:17.592-0500] {processor.py:186} INFO - Started process (PID=32020) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:10:17.611-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:10:17.614-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:17.614-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:10:17.625-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:10:17.634-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:17.634-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:10:17.645-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:10:17.644-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:10:17.660-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.072 seconds
+[2024-11-27T12:11:01.893-0500] {processor.py:186} INFO - Started process (PID=32084) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:11:01.912-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:11:01.915-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:01.915-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:11:01.926-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:11:01.936-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:01.936-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:11:01.947-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:01.947-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:11:01.963-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.076 seconds
+[2024-11-27T12:11:47.325-0500] {processor.py:186} INFO - Started process (PID=32143) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:11:47.344-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:11:47.347-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:47.346-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:11:47.357-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:11:47.366-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:47.366-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:11:47.377-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:11:47.377-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:11:47.392-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.072 seconds
+[2024-11-27T12:12:31.618-0500] {processor.py:186} INFO - Started process (PID=32233) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:12:31.638-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:12:31.640-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:31.640-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:12:31.652-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:12:31.661-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:31.661-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:12:31.671-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:12:31.671-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:12:31.688-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.074 seconds
+[2024-11-27T12:13:17.566-0500] {processor.py:186} INFO - Started process (PID=32289) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:13:17.585-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:13:17.586-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:17.586-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:13:17.592-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:13:17.605-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:17.605-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:17.621-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:17.621-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:13:17.656-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.093 seconds
+[2024-11-27T12:13:48.347-0500] {processor.py:186} INFO - Started process (PID=32344) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:13:48.366-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:13:48.368-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:48.368-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:13:48.375-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:13:48.389-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:48.389-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:13:48.399-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:13:48.399-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:13:48.425-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.080 seconds
+[2024-11-27T12:15:15.398-0500] {processor.py:186} INFO - Started process (PID=32540) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:15:15.416-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:15:15.419-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:15.419-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:15:15.426-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:15:15.435-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:15.435-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:15:15.447-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:15:15.446-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:15:15.587-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.193 seconds
+[2024-11-27T12:16:20.585-0500] {processor.py:186} INFO - Started process (PID=32615) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:16:20.604-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:16:20.606-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:20.606-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:16:20.613-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:16:20.622-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:20.621-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:16:20.632-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:16:20.632-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:16:20.651-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.070 seconds
+[2024-11-27T12:17:17.640-0500] {processor.py:186} INFO - Started process (PID=32693) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:17:17.660-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:17:17.664-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:17.663-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:17:17.672-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:17:17.681-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:17.681-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:17.787-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:17.787-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:17:17.825-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.188 seconds
+[2024-11-27T12:17:46.250-0500] {processor.py:186} INFO - Started process (PID=32737) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:17:46.251-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:17:46.252-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:46.252-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:17:46.257-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:17:46.270-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:46.269-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:17:46.280-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:17:46.280-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:17:46.297-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.050 seconds
+[2024-11-27T12:19:20.278-0500] {processor.py:186} INFO - Started process (PID=32961) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:19:20.297-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:19:20.299-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:20.299-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:19:20.306-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:19:20.316-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:20.316-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:19:20.332-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:19:20.331-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:19:20.496-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.222 seconds
+[2024-11-27T12:20:33.321-0500] {processor.py:186} INFO - Started process (PID=33045) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:20:33.322-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:20:33.323-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:33.323-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:20:33.328-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:20:33.337-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:33.337-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:20:33.347-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:20:33.347-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:20:33.362-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.044 seconds
+[2024-11-27T12:21:28.986-0500] {processor.py:186} INFO - Started process (PID=33109) to work on /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:21:29.005-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py for tasks to queue
+[2024-11-27T12:21:29.008-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:29.007-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:21:29.014-0500] {processor.py:925} INFO - DAG(s) 'xcom_with_return_and_template_reference' retrieved from /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py
+[2024-11-27T12:21:29.023-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:29.023-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T12:21:29.036-0500] {logging_mixin.py:190} INFO - [2024-11-27T12:21:29.036-0500] {dag.py:4180} INFO - Setting next_dagrun for xcom_with_return_and_template_reference to None, run_after=None
+[2024-11-27T12:21:29.203-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/PART 3/Xcom/xcom_with_return_and_template_reference.py took 0.220 seconds

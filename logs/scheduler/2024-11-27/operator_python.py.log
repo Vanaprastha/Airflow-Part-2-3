@@ -1,0 +1,15 @@
+[2024-11-27T10:56:45.704-0500] {processor.py:186} INFO - Started process (PID=19863) to work on /home/vanaprastha/airflow/dags/operator_python.py
+[2024-11-27T10:56:45.704-0500] {processor.py:914} INFO - Processing file /home/vanaprastha/airflow/dags/operator_python.py for tasks to queue
+[2024-11-27T10:56:45.705-0500] {logging_mixin.py:190} INFO - [2024-11-27T10:56:45.705-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/vanaprastha/airflow/dags/operator_python.py
+[2024-11-27T10:56:45.712-0500] {processor.py:925} INFO - DAG(s) 'operator_python' retrieved from /home/vanaprastha/airflow/dags/operator_python.py
+[2024-11-27T10:56:45.773-0500] {logging_mixin.py:190} INFO - [2024-11-27T10:56:45.772-0500] {override.py:1911} INFO - Created Permission View: can edit on DAG:operator_python
+[2024-11-27T10:56:45.784-0500] {logging_mixin.py:190} INFO - [2024-11-27T10:56:45.784-0500] {override.py:1911} INFO - Created Permission View: can read on DAG:operator_python
+[2024-11-27T10:56:45.793-0500] {logging_mixin.py:190} INFO - [2024-11-27T10:56:45.793-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG:operator_python
+[2024-11-27T10:56:45.810-0500] {logging_mixin.py:190} INFO - [2024-11-27T10:56:45.810-0500] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:operator_python
+[2024-11-27T10:56:45.821-0500] {logging_mixin.py:190} INFO - [2024-11-27T10:56:45.821-0500] {override.py:1911} INFO - Created Permission View: can create on DAG Run:operator_python
+[2024-11-27T10:56:45.833-0500] {logging_mixin.py:190} INFO - [2024-11-27T10:56:45.833-0500] {override.py:1911} INFO - Created Permission View: can read on DAG Run:operator_python
+[2024-11-27T10:56:45.845-0500] {logging_mixin.py:190} INFO - [2024-11-27T10:56:45.845-0500] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:operator_python
+[2024-11-27T10:56:45.846-0500] {logging_mixin.py:190} INFO - [2024-11-27T10:56:45.846-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-27T10:56:45.859-0500] {logging_mixin.py:190} INFO - [2024-11-27T10:56:45.859-0500] {dag.py:3262} INFO - Creating ORM DAG for operator_python
+[2024-11-27T10:56:45.864-0500] {logging_mixin.py:190} INFO - [2024-11-27T10:56:45.864-0500] {dag.py:4180} INFO - Setting next_dagrun for operator_python to None, run_after=None
+[2024-11-27T10:56:45.877-0500] {processor.py:208} INFO - Processing /home/vanaprastha/airflow/dags/operator_python.py took 0.179 seconds
